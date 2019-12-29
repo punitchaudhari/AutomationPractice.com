@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33263" started-at="2019-12-29T10:57:29Z" finished-at="2019-12-29T10:58:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33263" started-at="2019-12-29T10:57:29Z" finished-at="2019-12-29T10:58:03Z">
+      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79]" name="beforeSuite" is-config="true" duration-ms="175" started-at="2019-12-29T10:57:29Z" finished-at="2019-12-29T10:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79]" name="beforeTest" is-config="true" duration-ms="15" started-at="2019-12-29T10:57:29Z" finished-at="2019-12-29T10:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79]" name="beforeMethod" is-config="true" duration-ms="10635" started-at="2019-12-29T10:57:29Z" finished-at="2019-12-29T10:57:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass.test1() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79]" name="test1" duration-ms="21745" started-at="2019-12-29T10:57:40Z" finished-at="2019-12-29T10:58:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79]" name="afterMethod" is-config="true" duration-ms="843" started-at="2019-12-29T10:58:02Z" finished-at="2019-12-29T10:58:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=testclass.test1()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79]" name="afterTest" is-config="true" duration-ms="2" started-at="2019-12-29T10:58:03Z" finished-at="2019-12-29T10:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@57536d79]" name="afterSuite" is-config="true" duration-ms="368" started-at="2019-12-29T10:58:03Z" finished-at="2019-12-29T10:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

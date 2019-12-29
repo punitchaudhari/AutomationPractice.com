@@ -1,0 +1,272 @@
+2019-12-18 17:12:116 INFO  indexPage:25 - testing logger class
+2019-12-18 18:12:661 INFO  NavigationMenu:21 - NavigationMenu Class Object Created
+2019-12-18 18:12:728 INFO  NavigationMenu:21 - NavigationMenu Class Object Created
+2019-12-18 18:12:944 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-18 18:12:951 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-18 18:12:972 INFO  TestBase:78 - ============Launching the browser============
+2019-12-18 18:12:79 INFO  TestBase:83 - ============test1============Started============
+2019-12-18 18:12:315 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-18 18:12:331 INFO  TestBase:100 - ============test1============Finished============
+2019-12-18 18:12:331 INFO  TestBase:105 - ============Closing the browser============
+2019-12-18 18:12:160 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-18 18:12:203 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-18 18:12:697 INFO  NavigationMenu:23 - NavigationMenu Class Object Created
+2019-12-18 18:12:968 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-18 18:12:978 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-18 18:12:02 INFO  TestBase:78 - ============Launching the browser============
+2019-12-18 18:12:56 INFO  TestBase:83 - ============test1============Started============
+2019-12-18 18:12:253 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-18 18:12:263 INFO  TestBase:100 - ============test1============Finished============
+2019-12-18 18:12:264 INFO  TestBase:105 - ============Closing the browser============
+2019-12-18 18:12:521 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-18 18:12:567 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-18 18:12:177 INFO  NavigationMenu:23 - NavigationMenu Class Object Created
+2019-12-18 18:12:381 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-18 18:12:389 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-18 18:12:410 INFO  TestBase:78 - ============Launching the browser============
+2019-12-18 18:12:219 INFO  TestBase:83 - ============test1============Started============
+2019-12-18 18:12:861 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-18 18:12:889 INFO  TestBase:100 - ============test1============Finished============
+2019-12-18 18:12:891 INFO  TestBase:105 - ============Closing the browser============
+2019-12-18 18:12:758 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-18 18:12:800 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-23 16:12:336 INFO  NavigationMenu:23 - NavigationMenu Class Object Created
+2019-12-23 16:12:865 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-23 16:12:875 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-23 16:12:910 INFO  TestBase:78 - ============Launching the browser============
+2019-12-23 16:12:921 INFO  TestBase:83 - ============test1============Started============
+2019-12-23 16:12:481 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-23 16:12:512 INFO  TestBase:100 - ============test1============Finished============
+2019-12-23 16:12:513 INFO  TestBase:105 - ============Closing the browser============
+2019-12-23 16:12:923 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-23 16:12:901 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-23 17:12:102 INFO  NavigationMenu:23 - NavigationMenu Class Object Created
+2019-12-23 17:12:339 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-23 17:12:347 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-23 17:12:375 INFO  TestBase:78 - ============Launching the browser============
+2019-12-23 17:12:822 INFO  TestBase:83 - ============test1============Started============
+2019-12-23 17:12:924 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-23 17:12:925 INFO  NavigationMenu:60 - finding and clicking
+2019-12-23 17:12:937 INFO  TestBase:100 - ============test1============Finished============
+2019-12-23 17:12:938 INFO  TestBase:105 - ============Closing the browser============
+2019-12-23 17:12:774 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-23 17:12:819 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-23 17:12:234 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-23 17:12:243 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-23 17:12:265 INFO  TestBase:78 - ============Launching the browser============
+2019-12-23 17:12:452 INFO  TestBase:83 - ============test1============Started============
+2019-12-23 17:12:859 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-23 17:12:892 INFO  NavigationMenu:23 - NavigationMenu Class Object Created
+2019-12-23 17:12:893 INFO  NavigationMenu:60 - finding and clicking
+2019-12-23 17:12:873 INFO  NavigationMenu:62 - clicked on women
+2019-12-23 17:12:878 INFO  TestBase:100 - ============test1============Finished============
+2019-12-23 17:12:878 INFO  TestBase:105 - ============Closing the browser============
+2019-12-23 17:12:744 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-23 17:12:778 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-23 17:12:666 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-23 17:12:676 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-23 17:12:702 INFO  TestBase:78 - ============Launching the browser============
+2019-12-23 17:12:987 INFO  TestBase:83 - ============test1============Started============
+2019-12-23 17:12:968 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-23 17:12:00 INFO  NavigationMenu:23 - NavigationMenu Class Object Created
+2019-12-23 17:12:00 INFO  NavigationMenu:60 - finding and clicking
+2019-12-23 17:12:34 INFO  NavigationMenu:62 - clicked on women
+2019-12-23 17:12:40 INFO  TestBase:100 - ============test1============Finished============
+2019-12-23 17:12:40 INFO  TestBase:105 - ============Closing the browser============
+2019-12-23 17:12:909 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-23 17:12:946 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-26 12:12:737 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-26 12:12:757 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-26 12:12:781 INFO  TestBase:78 - ============Launching the browser============
+2019-12-26 12:12:195 INFO  TestBase:83 - ============test1============Started============
+2019-12-26 12:12:122 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-26 12:12:178 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2019-12-26 12:12:330 INFO  TestBase:100 - ============test1============Finished============
+2019-12-26 12:12:330 INFO  TestBase:105 - ============Closing the browser============
+2019-12-26 12:12:219 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-26 12:12:359 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-26 12:12:478 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-26 12:12:489 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-26 12:12:518 INFO  TestBase:78 - ============Launching the browser============
+2019-12-26 12:12:731 INFO  TestBase:83 - ============test1============Started============
+2019-12-26 12:12:355 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-26 12:12:426 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2019-12-26 12:12:559 INFO  TestBase:100 - ============test1============Finished============
+2019-12-26 12:12:560 INFO  TestBase:105 - ============Closing the browser============
+2019-12-26 12:12:474 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-26 12:12:517 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-26 12:12:784 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-26 12:12:793 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-26 12:12:817 INFO  TestBase:78 - ============Launching the browser============
+2019-12-26 12:12:107 INFO  TestBase:83 - ============test1============Started============
+2019-12-26 12:12:917 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-26 12:12:958 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2019-12-26 12:12:232 INFO  NavigationMenu:51 - adding first product
+2019-12-26 12:12:589 INFO  NavigationMenu:59 - closing window
+2019-12-26 12:12:380 INFO  NavigationMenu:55 - adding second product
+2019-12-26 12:12:133 INFO  NavigationMenu:59 - closing window
+2019-12-26 12:12:182 INFO  testclass:26 - 2
+2019-12-26 12:12:185 INFO  TestBase:100 - ============test1============Finished============
+2019-12-26 12:12:185 INFO  TestBase:105 - ============Closing the browser============
+2019-12-26 12:12:23 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-26 12:12:56 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-26 12:12:108 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-26 12:12:116 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-26 12:12:135 INFO  TestBase:78 - ============Launching the browser============
+2019-12-26 12:12:524 INFO  TestBase:51 - ============Starting the SUITE execution============
+2019-12-26 12:12:533 INFO  TestBase:59 - ============Starting the TESTS execution============
+2019-12-26 12:12:552 INFO  TestBase:78 - ============Launching the browser============
+2019-12-26 12:12:788 INFO  TestBase:83 - ============test1============Started============
+2019-12-26 12:12:833 INFO  TestBase:142 - Visiting to this URL = http://automationpractice.com/index.php
+2019-12-26 12:12:872 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2019-12-26 12:12:835 INFO  NavigationMenu:51 - adding first product
+2019-12-26 12:12:110 INFO  NavigationMenu:59 - closing window
+2019-12-26 12:12:627 INFO  NavigationMenu:55 - adding second product
+2019-12-26 12:12:427 INFO  NavigationMenu:59 - closing window
+2019-12-26 12:12:460 INFO  testclass:26 - 2
+2019-12-26 12:12:494 INFO  testclass:27 - 
+2019-12-26 12:12:527 INFO  testclass:28 - 
+2019-12-26 12:12:533 INFO  TestBase:100 - ============test1============Finished============
+2019-12-26 12:12:534 INFO  TestBase:105 - ============Closing the browser============
+2019-12-26 12:12:453 INFO  TestBase:65 - ============Ending the TESTS execution============
+2019-12-26 12:12:490 INFO  TestBase:119 - ============Ending the suite execution============
+2019-12-26 16:12:543 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-26 16:12:543 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:523 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:873 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:409 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:267 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:477 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:484 INFO  TestBase:62 - ============Starting the TESTS execution============
+2019-12-29 16:12:568 INFO  TestBase:81 - ============Launching the browser============
+2019-12-29 16:12:712 INFO  TestBase:86 - ============test1============Started============
+2019-12-29 16:12:249 INFO  TestBase:145 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2019-12-29 16:12:329 INFO  Page_authentication:23 - Page_authentication Class Object Created
+2019-12-29 16:12:537 INFO  Page_authentication:75 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2019-12-29 16:12:644 INFO  Page_authentication:81 - Typed = 'baymax' password on already registered section password textbox field 
+2019-12-29 16:12:344 INFO  Page_authentication:93 - Clicked on 'Sign in' button 
+2019-12-29 16:12:348 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:349 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:397 INFO  Page_myAccount:62 - Clicking on 'Order History And Details
+2019-12-29 16:12:414 INFO  TestBase:103 - ============test1============Finished============
+2019-12-29 16:12:414 INFO  TestBase:108 - ============Closing the browser============
+2019-12-29 16:12:459 INFO  TestBase:68 - ============Ending the TESTS execution============
+2019-12-29 16:12:529 INFO  TestBase:122 - ============Ending the suite execution============
+2019-12-29 16:12:494 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:721 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:728 INFO  TestBase:62 - ============Starting the TESTS execution============
+2019-12-29 16:12:748 INFO  TestBase:81 - ============Launching the browser============
+2019-12-29 16:12:24 INFO  TestBase:86 - ============test1============Started============
+2019-12-29 16:12:707 INFO  TestBase:145 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2019-12-29 16:12:741 INFO  Page_authentication:23 - Page_authentication Class Object Created
+2019-12-29 16:12:974 INFO  Page_authentication:75 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2019-12-29 16:12:128 INFO  Page_authentication:81 - Typed = 'baymax' password on already registered section password textbox field 
+2019-12-29 16:12:54 INFO  Page_authentication:93 - Clicked on 'Sign in' button 
+2019-12-29 16:12:59 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:60 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:192 INFO  Page_myAccount:62 - Clicking on 'Order History And Details
+2019-12-29 16:12:226 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:232 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:420 INFO  Page_history:273 - Clicking on 'LRZBVFASO' 
+2019-12-29 16:12:432 INFO  TestBase:103 - ============test1============Finished============
+2019-12-29 16:12:433 INFO  TestBase:108 - ============Closing the browser============
+2019-12-29 16:12:301 INFO  TestBase:68 - ============Ending the TESTS execution============
+2019-12-29 16:12:332 INFO  TestBase:122 - ============Ending the suite execution============
+2019-12-29 16:12:700 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:904 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:914 INFO  TestBase:62 - ============Starting the TESTS execution============
+2019-12-29 16:12:942 INFO  TestBase:81 - ============Launching the browser============
+2019-12-29 16:12:379 INFO  TestBase:86 - ============test1============Started============
+2019-12-29 16:12:641 INFO  TestBase:145 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2019-12-29 16:12:675 INFO  Page_authentication:23 - Page_authentication Class Object Created
+2019-12-29 16:12:854 INFO  Page_authentication:75 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2019-12-29 16:12:968 INFO  Page_authentication:81 - Typed = 'baymax' password on already registered section password textbox field 
+2019-12-29 16:12:185 INFO  Page_authentication:93 - Clicked on 'Sign in' button 
+2019-12-29 16:12:189 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:190 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:866 INFO  Page_myAccount:62 - Clicking on 'Order History And Details
+2019-12-29 16:12:882 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:887 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:46 INFO  Page_history:273 - Clicking on 'LRZBVFASO' 
+2019-12-29 16:12:80 INFO  TestBase:103 - ============test1============Finished============
+2019-12-29 16:12:81 INFO  TestBase:108 - ============Closing the browser============
+2019-12-29 16:12:950 INFO  TestBase:68 - ============Ending the TESTS execution============
+2019-12-29 16:12:984 INFO  TestBase:122 - ============Ending the suite execution============
+2019-12-29 16:12:524 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:715 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:722 INFO  TestBase:62 - ============Starting the TESTS execution============
+2019-12-29 16:12:742 INFO  TestBase:81 - ============Launching the browser============
+2019-12-29 16:12:297 INFO  TestBase:86 - ============test1============Started============
+2019-12-29 16:12:245 INFO  TestBase:145 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2019-12-29 16:12:297 INFO  Page_authentication:23 - Page_authentication Class Object Created
+2019-12-29 16:12:492 INFO  Page_authentication:75 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2019-12-29 16:12:614 INFO  Page_authentication:81 - Typed = 'baymax' password on already registered section password textbox field 
+2019-12-29 16:12:542 INFO  Page_authentication:93 - Clicked on 'Sign in' button 
+2019-12-29 16:12:546 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:547 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:650 INFO  Page_myAccount:62 - Clicking on 'Order History And Details
+2019-12-29 16:12:664 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:669 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:842 INFO  Page_history:274 - Clicking on 'LRZBVFASO' 
+2019-12-29 16:12:855 INFO  TestBase:103 - ============test1============Finished============
+2019-12-29 16:12:855 INFO  TestBase:108 - ============Closing the browser============
+2019-12-29 16:12:714 INFO  TestBase:68 - ============Ending the TESTS execution============
+2019-12-29 16:12:774 INFO  TestBase:122 - ============Ending the suite execution============
+2019-12-29 16:12:751 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:943 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:954 INFO  TestBase:62 - ============Starting the TESTS execution============
+2019-12-29 16:12:978 INFO  TestBase:81 - ============Launching the browser============
+2019-12-29 16:12:259 INFO  TestBase:86 - ============test1============Started============
+2019-12-29 16:12:807 INFO  TestBase:145 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2019-12-29 16:12:850 INFO  Page_authentication:23 - Page_authentication Class Object Created
+2019-12-29 16:12:50 INFO  Page_authentication:75 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2019-12-29 16:12:189 INFO  Page_authentication:81 - Typed = 'baymax' password on already registered section password textbox field 
+2019-12-29 16:12:325 INFO  Page_authentication:93 - Clicked on 'Sign in' button 
+2019-12-29 16:12:328 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:329 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:684 INFO  TestBase:103 - ============test1============Finished============
+2019-12-29 16:12:687 INFO  TestBase:108 - ============Closing the browser============
+2019-12-29 16:12:518 INFO  TestBase:68 - ============Ending the TESTS execution============
+2019-12-29 16:12:574 INFO  TestBase:122 - ============Ending the suite execution============
+2019-12-29 16:12:302 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:502 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:518 INFO  TestBase:62 - ============Starting the TESTS execution============
+2019-12-29 16:12:551 INFO  TestBase:81 - ============Launching the browser============
+2019-12-29 16:12:28 INFO  TestBase:86 - ============test1============Started============
+2019-12-29 16:12:42 INFO  TestBase:145 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2019-12-29 16:12:78 INFO  Page_authentication:23 - Page_authentication Class Object Created
+2019-12-29 16:12:285 INFO  Page_authentication:75 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2019-12-29 16:12:403 INFO  Page_authentication:81 - Typed = 'baymax' password on already registered section password textbox field 
+2019-12-29 16:12:156 INFO  Page_authentication:93 - Clicked on 'Sign in' button 
+2019-12-29 16:12:163 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:165 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:372 INFO  Page_myAccount:62 - Clicking on 'Order History And Details
+2019-12-29 16:12:391 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:398 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:575 INFO  Page_history:273 - Clicking on 'LRZBVFASO' 
+2019-12-29 16:12:591 INFO  TestBase:103 - ============test1============Finished============
+2019-12-29 16:12:592 INFO  TestBase:108 - ============Closing the browser============
+2019-12-29 16:12:419 INFO  TestBase:68 - ============Ending the TESTS execution============
+2019-12-29 16:12:465 INFO  TestBase:122 - ============Ending the suite execution============
+2019-12-29 16:12:986 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:182 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:194 INFO  TestBase:61 - ============Starting the TESTS execution============
+2019-12-29 16:12:205 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2019-12-29 16:12:892 INFO  TestBase:55 - ============Starting the SUITE execution============
+2019-12-29 16:12:901 INFO  TestBase:61 - ============Starting the TESTS execution============
+2019-12-29 16:12:928 INFO  TestBase:83 - ============Launching the browser============
+2019-12-29 16:12:562 INFO  TestBase:88 - ============test1============Started============
+2019-12-29 16:12:94 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2019-12-29 16:12:138 INFO  Page_authentication:23 - Page_authentication Class Object Created
+2019-12-29 16:12:366 INFO  Page_authentication:75 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2019-12-29 16:12:489 INFO  Page_authentication:81 - Typed = 'baymax' password on already registered section password textbox field 
+2019-12-29 16:12:121 INFO  Page_authentication:93 - Clicked on 'Sign in' button 
+2019-12-29 16:12:125 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:127 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2019-12-29 16:12:186 INFO  Page_myAccount:62 - Clicking on 'Order History And Details
+2019-12-29 16:12:204 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:213 INFO  Page_history:26 - Page_history Class Object Created
+2019-12-29 16:12:309 INFO  TestBase:105 - ============test1============Finished============
+2019-12-29 16:12:309 INFO  TestBase:110 - ============Closing the browser============
+2019-12-29 16:12:155 INFO  TestBase:70 - ============Ending the TESTS execution============
+2019-12-29 16:12:190 INFO  TestBase:124 - ============Ending the suite execution============
