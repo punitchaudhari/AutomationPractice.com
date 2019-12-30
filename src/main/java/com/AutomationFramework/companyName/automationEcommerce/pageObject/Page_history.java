@@ -293,41 +293,25 @@ public class Page_history {
 
 	}
 
-  	public void clkPdf(int rowNumber){
-  		int length = tbl_rows_invoicePdf.size();
-  		for(int i=1;i<=length; i++){
-  			if(i==rowNumber){
-  				tbl_rows_invoicePdf.get(i-1).click();
-  				log.info("Clicked on pdf number = '" +(i-1)+"'");
-				TestBase.test.log(Status.INFO, "Clicked on pdf number = '" +(i-1)+"'");
-			
-  			}
-  		}
-		
+	public void clkPdf(int rowNumber) {
+		tbl_rows_invoicePdf.get(rowNumber - 1).click();
+		log.info("Clicked on pdf number = '" + (rowNumber - 1) + "'");
+		TestBase.test.log(Status.INFO, "Clicked on pdf number = '" + (rowNumber - 1) + "'");
 	}
-	public void clkDetails(int rowNumber){
-		
-		int length = tbl_rows_details.size();
-  		for(int i=1;i<=length; i++){
-  			if(i==rowNumber){
-  				tbl_rows_details.get(i-1).click();
-  				log.info("Clicked on Details button number = '" +(i-1)+"'");
-				TestBase.test.log(Status.INFO, "Clicked on Details button number = '" +(i-1)+"'");
-			
-  			}
-  		}
+
+	public void clkDetails(int rowNumber) {
+		tbl_rows_details.get(rowNumber - 1).click();
+		log.info("Clicked on Details button number = '" + (rowNumber - 1) + "'");
+		TestBase.test.log(Status.INFO, "Clicked on Details button number = '" + (rowNumber - 1) + "'");
+
 	}
-	public Page_order clkReorder(int rowNumber){
-		int length = tbl_rows_reorder.size();
-  		for(int i=1;i<=length; i++){
-  			if(i==rowNumber){
-  				tbl_rows_reorder.get(i-1).click();
-  				log.info("Clicked on reorder button number = '" +(i-1)+"'");
-				TestBase.test.log(Status.INFO, "Clicked on reorder button number = '" +(i-1)+"'");
-			
-  			}
-  		}
-  		return new  Page_order(driver);
+
+	public Page_order clkReorder(int rowNumber) {
+		tbl_rows_reorder.get(rowNumber - 1).click();
+		log.info("Clicked on reorder button number = '" + (rowNumber - 1) + "'");
+		TestBase.test.log(Status.INFO, "Clicked on reorder button number = '" + (rowNumber - 1) + "'");
+
+		return new Page_order(driver);
 	}
 	public Page_order clkReorder(){
 		btn_reorder.click();
