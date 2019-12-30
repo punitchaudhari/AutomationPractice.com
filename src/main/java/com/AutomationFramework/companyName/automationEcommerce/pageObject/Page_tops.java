@@ -61,6 +61,12 @@ public class Page_tops {
 	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[1]/div/div[2]/span")
 	public List<WebElement> lbl_productPrice;
 
+	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[1]/div/div[2]/span[2]")
+	public List<WebElement> lbl_productOldPrice;
+
+	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[1]/div/div[2]/span[3]")
+	public List<WebElement> lbl_productOffer;
+
 	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[2]/h5/a")
 	public List<WebElement> link_productName;
 
@@ -209,7 +215,5 @@ public class Page_tops {
 		TestBase.test.log(Status.INFO, "Clicked on 'Compare' button 2  ");
 
 	}
-
-	
 
 }

@@ -16,13 +16,13 @@ public class Page_tshirts {
 
 	public WebDriver driver;
 	Logger log = LoggerHelper.getLogger(Page_tshirts.class);
-	
-	public Page_tshirts(WebDriver driver){
+
+	public Page_tshirts(WebDriver driver) {
 		this.driver = driver;
-		
+
 		PageFactory.initElements(driver, this);
 		log.info("Page_tshirts Class Object Created");
-		TestBase.test.log(Status.INFO,"Page_tshirts Class Object Created");	
+		TestBase.test.log(Status.INFO, "Page_tshirts Class Object Created");
 	}
 
 	@FindBy(xpath = "	//*[@id='columns']/div[1]/a[1]")
@@ -30,7 +30,7 @@ public class Page_tshirts {
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[2]")
 	public WebElement link_women;
-	
+
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[3]")
 	public WebElement link_tops;
 
@@ -51,6 +51,12 @@ public class Page_tshirts {
 
 	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[1]/div/div[2]/span")
 	public List<WebElement> lbl_productPrice;
+
+	@FindBy(xpath = "	//*[@id='center_column']/ul/li/div/div[1]/div/div[2]/span[2]")
+	public List<WebElement> lbl_productOldPrice;
+
+	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[1]/div/div[2]/span[3]")
+	public List<WebElement> lbl_productOffer;
 
 	@FindBy(xpath = "//*[@id='center_column']/ul/li/div/div[2]/h5/a")
 	public List<WebElement> link_productName;
@@ -92,6 +98,7 @@ public class Page_tshirts {
 		TestBase.test.log(Status.INFO, "Clicked on 'Women' link  ");
 		return new Page_women(driver);
 	}
+
 	public Page_tops clkTops() {
 		link_tops.click();
 		log.info("Clicked on 'Tops' link  ");
@@ -179,5 +186,4 @@ public class Page_tshirts {
 
 	}
 
-	
 }
