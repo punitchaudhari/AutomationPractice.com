@@ -210,11 +210,6 @@ public class Page_tops {
 
 	}
 
-	public void clk() {
-
-		log.info("Clicked on ''  ");
-		TestBase.test.log(Status.INFO, );
-
-	}
+	
 
 }
