@@ -157,6 +157,25 @@ public class SideBar {
 	@FindBy(xpath="//*[@id='viewed-products_block_left']/div/ul/li[2]/div/p")
 	public List<WebElement> lbl_productDescription;
 
+	//Top sellers section
+	@FindBy(xpath="//*[@id='best-sellers_block_right']/h4/a")
+	public WebElement link_topSellers ;
+	
+	@FindBy(xpath="//*[@id='best-sellers_block_right']/div/ul/li/a/img")
+	public List<WebElement> img_productImage;
+	
+	@FindBy(xpath="//*[@id='best-sellers_block_right']/div/ul/li/div/h5/a")
+	public List<WebElement> link_productNames;
+	
+	@FindBy(xpath="//*[@id='best-sellers_block_right']/div/ul/li/div/p")
+	public List<WebElement> lbl_productDescription_topSellersSection;
+	
+	@FindBy(xpath="//*[@id='best-sellers_block_right']/div/ul/li[1]/div/div")
+	public List<WebElement> lbl_productPrice;
+	
+	@FindBy(xpath="//*[@id='best-sellers_block_right']/div/div/a")
+	public WebElement btn_allBestSallers;
+	
 	
 
 }
