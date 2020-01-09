@@ -8,17 +8,14 @@ import com.AutomationFramework.companyName.automationEcommerce.helper.log4j.Logg
 import com.AutomationFramework.companyName.automationEcommerce.testbase.TestBase;
 import com.aventstack.extentreports.Status;
 
-public class Page_orderMultiShipping {
-
+public class Page_shipping {
 	public WebDriver driver;
-	Logger log = LoggerHelper.getLogger(Page_orderMultiShipping.class);
+	Logger log = LoggerHelper.getLogger(Page_shipping.class);
 	
-	public Page_orderMultiShipping(WebDriver driver){
+	public Page_shipping(WebDriver driver){
 		this.driver = driver;
-		
 		PageFactory.initElements(driver, this);
-		log.info("Page_orderMultiShipping Class Object Created");
-		TestBase.test.log(Status.INFO,"Page_orderMultiShipping Class Object Created");	
+		log.info("Page_shipping Class Object Created");
+		TestBase.test.log(Status.INFO,"Page_shipping Class Object Created");	
 	}
-
 }

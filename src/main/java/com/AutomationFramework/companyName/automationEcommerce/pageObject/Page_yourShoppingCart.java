@@ -8,17 +8,14 @@ import com.AutomationFramework.companyName.automationEcommerce.helper.log4j.Logg
 import com.AutomationFramework.companyName.automationEcommerce.testbase.TestBase;
 import com.aventstack.extentreports.Status;
 
-public class Page_order {
-
+public class Page_yourShoppingCart {
 	public WebDriver driver;
-	Logger log = LoggerHelper.getLogger(Page_order.class);
+	Logger log = LoggerHelper.getLogger(Page_yourShoppingCart.class);
 	
-	public Page_order(WebDriver driver){
+	public Page_yourShoppingCart(WebDriver driver){
 		this.driver = driver;
-		
 		PageFactory.initElements(driver, this);
-		log.info("Page_order Class Object Created");
-		TestBase.test.log(Status.INFO,"Page_order Class Object Created");	
+		log.info("Page_yourShoppingCart Class Object Created");
+		TestBase.test.log(Status.INFO,"Page_yourShoppingCart Class Object Created");	
 	}
-
 }
