@@ -26,37 +26,37 @@ public class Page_bankwirePayment {
 	}
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a")
-	WebElement img_homeIcon;
+	public WebElement img_homeIcon;
 
 	@FindBy(xpath = "//*[@id='center_column']/h1")
-	WebElement lbl_orderSummary;
+	public WebElement lbl_orderSummary;
 
 	@FindBy(xpath = "//*[@id='order_step']/li[1]/a")
-	WebElement link_summary;
+	public WebElement link_summary;
 
 	@FindBy(xpath = "//*[@id='order_step']/li[2]/a")
-	WebElement link_signIn;
+	public WebElement link_signIn;
 
 	@FindBy(xpath = "//*[@id='order_step']/li[3]/a")
-	WebElement link_address;
+	public WebElement link_address;
 
 	@FindBy(xpath = "//*[@id='order_step']/li[4]/a")
-	WebElement link_shipping;
+	public WebElement link_shipping;
 
 	@FindBy(xpath = "//*[@id='step_end']")
-	WebElement link_payment;
+	public WebElement link_payment;
 
 	@FindBy(xpath = "//*[@id='center_column']/form/div/h3")
-	WebElement lbl_bankWirePayment;
+	public WebElement lbl_bankWirePayment;
 
 	@FindBy(xpath = "//*[@id='center_column']/form/div/p[1]/strong")
-	WebElement lbl_youHaveChosenToPayByBankWire;
+	public WebElement lbl_youHaveChosenToPayByBankWire;
 
 	@FindBy(xpath = "//*[@id='cart_navigation']/a")
-	WebElement link_otherPaymentMethods;
+	public WebElement link_otherPaymentMethods;
 
 	@FindBy(xpath = "//*[@id='cart_navigation']/button")
-	WebElement btn_iConfirmMyOrder;
+	public 	WebElement btn_iConfirmMyOrder;
 
 	public Page_index clkHomeIcon() {
 		img_homeIcon.click();
