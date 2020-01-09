@@ -53,6 +53,9 @@ public class Page_chequePayment {
 	@FindBy(xpath = "//*[@id='cart_navigation']/button")
 	public 	WebElement btn_iConfirmMyOrder;
 	
+	@FindBy(xpath = "//*[@id='amount']")
+	public 	WebElement lbl_totalAmountOfYourOrder;
+	
 	public Page_index clkHomeIcon() {
 		img_homeIcon.click();
 		log.info("Clicked on 'Home icon' button");
