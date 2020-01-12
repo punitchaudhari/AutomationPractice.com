@@ -36,5 +36,11 @@ public class Page_aboutUs {
 
 	@FindBy(xpath = "//*[@id='center_column']/div/div/div[3]/div/h3")
 	public WebElement lbl_testimonials;
-
+	
+	public Page_index clkHomeIcon() {
+		img_homeIcon.click();
+		log.info("Clicked on 'Home icon' button");
+		TestBase.test.log(Status.INFO, "Clicked on 'Home icon' button");
+		return new Page_index(driver);
+	}
 }
