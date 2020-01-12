@@ -25,7 +25,7 @@ public class Page_contact {
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a")
 	public WebElement img_homeIcon;
-	// *[@id='center_column']/h1
+	
 	@FindBy(xpath = "//*[@id='center_column']/h1")
 	public WebElement lbl_customerServiceContactUs;
 
