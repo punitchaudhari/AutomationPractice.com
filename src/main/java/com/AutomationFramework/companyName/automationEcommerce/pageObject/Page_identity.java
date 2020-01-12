@@ -18,7 +18,6 @@ public class Page_identity {
 
 	public Page_identity(WebDriver driver) {
 		this.driver = driver;
-
 		PageFactory.initElements(driver, this);
 		log.info("Page_identity Class Object Created");
 		TestBase.test.log(Status.INFO, "Page_identity Class Object Created");

@@ -37,4 +37,5 @@ public class Page_delivery {
 		TestBase.test.log(Status.INFO, "Clicked on 'Home icon' button");
 		return new Page_index(driver);
 	}
+	
 }
