@@ -68,11 +68,11 @@ public class Popup_productAddedInCartStatus {
 
 	}
 
-	public Page_order clkProceedToCheckout() {
+	public Page_yourShoppingCart clkProceedToCheckout() {
 		btn_proceedToCheckout.click();
 		log.info("Clicked on 'Proceed to checkout' button");
 		TestBase.test.log(Status.INFO, "Clicked on 'Proceed to checkout' button");
-		return new Page_order(driver);
+		return new Page_yourShoppingCart(driver);
 	}
 
 	public void clkCloseWindow() {
