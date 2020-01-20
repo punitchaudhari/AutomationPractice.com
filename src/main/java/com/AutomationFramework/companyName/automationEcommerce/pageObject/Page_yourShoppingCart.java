@@ -130,6 +130,7 @@ public class Page_yourShoppingCart {
 				element.click();
 				log.info("Clicked on ='" + productName + "' link");
 				TestBase.test.log(Status.INFO, "Clicked on ='" + productName + "' link");
+				break;
 			}
 		}
 		return new Page_product(driver);
@@ -143,6 +144,7 @@ public class Page_yourShoppingCart {
 				element.click();
 				log.info("Clicked on ='" + productColorSize + "' link");
 				TestBase.test.log(Status.INFO, "Clicked on ='" + productColorSize + "' link");
+				break;
 			}
 		}
 		return new Page_product(driver);
