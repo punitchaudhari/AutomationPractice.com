@@ -143,9 +143,11 @@ public class Page_yourShoppingCart {
 				element.click();
 				log.info("Clicked on ='" + productColorSize + "' link");
 				TestBase.test.log(Status.INFO, "Clicked on ='" + productColorSize + "' link");
+				return new Page_product(driver);
+				break;
 			}
 		}
-		return new Page_product(driver);
+		
 	}
 
 	public void clkMinus(int buttonNumber) {
