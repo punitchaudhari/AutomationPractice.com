@@ -44,7 +44,7 @@ public class Page_bankwirePayment {
 	public WebElement link_shipping;
 
 	@FindBy(xpath = "//*[@id='step_end']")
-	public WebElement link_payment;
+	public WebElement lbl_payment;
 
 	@FindBy(xpath = "//*[@id='center_column']/form/div/h3")
 	public WebElement lbl_bankWirePayment;
