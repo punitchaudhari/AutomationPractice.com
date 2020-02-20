@@ -209,15 +209,6 @@ public class TestBase {
 	 * @param element
 	 * @return 
 	 */
-
-	public String getElementText(WebElement element) {
-
-		logConsole("Getting text of Webelement & the text is = '" + element.getText() + "'");
-		logExtentReport("Getting text of Webelement & the text is = '" + element.getText() + "'");
-		return element.getText();
-
-	}
-	
 	
 	
 
