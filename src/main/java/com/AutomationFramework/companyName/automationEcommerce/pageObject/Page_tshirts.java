@@ -25,8 +25,11 @@ public class Page_tshirts {
 		TestBase.test.log(Status.INFO, "Page_tshirts Class Object Created");
 	}
 
-	@FindBy(xpath = "	//*[@id='columns']/div[1]/a[1]")
+	@FindBy(xpath = "//*[@id='columns']/div[1]/a[1]")
 	public WebElement img_homeIcon;
+	
+	@FindBy(xpath = "//*[@id='columns']/div[1]")
+	public WebElement txt_tshirts;
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[2]")
 	public WebElement link_women;
