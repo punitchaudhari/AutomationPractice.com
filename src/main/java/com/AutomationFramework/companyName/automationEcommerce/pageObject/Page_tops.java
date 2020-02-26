@@ -28,7 +28,7 @@ public class Page_tops {
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[1]")
 	public WebElement img_homeIcon;
 	
-	@FindBy(xpath = "//*[@id="columns"]/div[1]")
+	@FindBy(xpath = "//*[@id='columns']/div[1]")
 	public WebElement txt_tops;
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[2]")
