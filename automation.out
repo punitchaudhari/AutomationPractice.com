@@ -270,3 +270,56 @@
 2019-12-29 16:12:309 INFO  TestBase:110 - ============Closing the browser============
 2019-12-29 16:12:155 INFO  TestBase:70 - ============Ending the TESTS execution============
 2019-12-29 16:12:190 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-22 13:02:982 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-22 13:02:996 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-22 13:02:18 INFO  TestBase:83 - ============Launching the browser============
+2020-02-22 13:02:57 INFO  TestBase:88 - ============test1============Started============
+2020-02-22 13:02:400 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication
+2020-02-22 13:02:433 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-22 13:02:697 INFO  Page_authentication:84 - Typed = 'baymax1@gmail.com' email on already registered section email textbox field 
+2020-02-22 13:02:820 INFO  Page_authentication:91 - Typed = 'baymax' password on already registered section password textbox field 
+2020-02-22 13:02:701 INFO  Page_authentication:105 - Clicked on 'Sign in' button 
+2020-02-22 13:02:704 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-22 13:02:706 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-22 13:02:395 INFO  Page_myAccount:62 - Clicking on 'Order History And Details
+2020-02-22 13:02:421 INFO  Page_history:27 - Page_history Class Object Created
+2020-02-22 13:02:437 INFO  Page_history:27 - Page_history Class Object Created
+2020-02-22 13:02:679 INFO  Page_history:289 - Clicking on 'LRZBVFASO' 
+2020-02-22 13:02:691 INFO  TestBase:105 - ============test1============Finished============
+2020-02-22 13:02:692 INFO  TestBase:110 - ============Closing the browser============
+2020-02-22 13:02:388 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-22 13:02:419 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-22 15:02:905 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-22 15:02:914 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-22 15:02:933 INFO  TestBase:83 - ============Launching the browser============
+2020-02-22 15:02:08 INFO  TestBase:88 - ============verifyWomenButtonFunctionality============Started============
+2020-02-22 15:02:252 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-22 15:02:300 INFO  NavigationMenu:131 - clicked on 'WOMEN' menu
+2020-02-22 15:02:330 INFO  NavigationMenu:28 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-02-22 15:02:346 INFO  Page_women:23 - Page_women Class Object Created
+2020-02-22 15:02:347 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-22 15:02:675 INFO  VerificationHelper:34 - element is Displayed
+2020-02-22 15:02:757 INFO  VerificationHelper:89 - element isWomen
+2020-02-22 15:02:814 INFO  VerificationHelper:122 - verifying if text is equals of 'Women' with 'Women'
+2020-02-22 15:02:816 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-22 15:02:820 INFO  TestBase:105 - ============verifyWomenButtonFunctionality============Finished============
+2020-02-22 15:02:821 INFO  TestBase:110 - ============Closing the browser============
+2020-02-22 15:02:550 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-22 15:02:580 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 05:02:771 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 05:02:785 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 05:02:825 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 05:02:235 INFO  TestBase:88 - ============verifyWomenButtonFunctionality============Started============
+2020-02-26 05:02:16 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 05:02:324 INFO  NavigationMenu:131 - clicked on 'WOMEN' menu
+2020-02-26 05:02:361 INFO  NavigationMenu:28 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-02-26 05:02:392 INFO  Page_women:23 - Page_women Class Object Created
+2020-02-26 05:02:395 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 05:02:168 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 05:02:218 INFO  VerificationHelper:89 - element text is =Women
+2020-02-26 05:02:288 INFO  VerificationHelper:122 - verifying if text is equals of 'Women' with 'Women'
+2020-02-26 05:02:294 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 05:02:298 INFO  TestBase:105 - ============verifyWomenButtonFunctionality============Finished============
+2020-02-26 05:02:298 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 05:02:25 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 05:02:87 INFO  TestBase:124 - ============Ending the suite execution============

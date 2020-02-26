@@ -26,11 +26,7 @@ public class testclass extends TestBase {
 		Page_history history = new Page_history(driver);
 		history.clkOrderReference("LRZBVFASO");
 		Thread.sleep(10000);
-		
-		
-		
-		
-		
+			
 		
 	}
 	

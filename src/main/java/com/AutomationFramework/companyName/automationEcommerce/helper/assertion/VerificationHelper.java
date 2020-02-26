@@ -86,8 +86,8 @@ public class VerificationHelper {
 		}
 		Boolean status = verifyIsElementDisplayed(element);
 		if (status) {
-			log.info("element is" + element.getText());
-			TestBase.test.log(Status.INFO,"element is" + element.getText());
+			log.info("element text is =" + element.getText());
+			TestBase.test.log(Status.INFO,"element text is =" + element.getText());
 			return element.getText();
 		} else {
 			return null;

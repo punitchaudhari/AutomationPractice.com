@@ -24,9 +24,12 @@ public class Page_women {
 		TestBase.test.log(Status.INFO, "Page_women Class Object Created");
 	}
 
-	@FindBy(xpath = "	//*[@id='columns']/div[1]/a[1]")
+	@FindBy(xpath = "//*[@id='columns']/div[1]/a[1]")
 	public WebElement img_homeIcon;
-
+	
+	@FindBy(xpath = "//*[@id='columns']/div[1]/span[2]")
+	public WebElement txt_women;
+	
 	@FindBy(xpath = "//*[@id='categories_block_left']/div/ul/li[1]/a")
 	public WebElement link_tops;
 

@@ -38,103 +38,78 @@ public class PropertiesReaderClass {
 		 
 		
 	}
-	public static String getHomePageUrl() {
-
-		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("homePageUrl");
-
-	}
-
-	public static String getCreateAccountSuccessPageUrl() {
-
-		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("createAccountSuccessPageUrl");
-
-	}
-
-	public static String getCruisesPageUrl() {
-
-		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("cruisesPageUrl");
-
-	}
-
-	public static String getindexPageUrl() {
+	public static String getIndexPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
 		return prop1.getProperty("indexPageUrl");
 
 	}
 
-	public static String getItineraryPageUrl() {
+	public static String getWomenPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("itineraryPageUrl");
+		return prop1.getProperty("womenPageUrl");
 
 	}
 
-	public static String getProfilePageUrl() {
+	public static String getDressesPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("profilePageUrl");
+		return prop1.getProperty("dressesPageUrl");
 
 	}
 
-	public static String getPurchasePageUrl() {
+	public static String getTshirtsPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("purchasePageUrl");
+		return prop1.getProperty("tshirtsPageUrl");
 
 	}
 
-	public static String getPurchse2PageUrl() {
+	public static String getTopsPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("purchse2PageUrl");
+		return prop1.getProperty("topsPageUrl");
 
 	}
 
-	public static String getRegisterPageUrl() {
+	public static String getBlousesPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("registerPageUrl");
+		return prop1.getProperty("blousesPageUrl");
 
 	}
 
-	public static String getReservationPageUrl() {
+	public static String getCasualDressesPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("reservationPageUrl");
+		return prop1.getProperty("casualDressesPageUrl");
 
 	}
 
-	public static String getReservation2PageUrl() {
+	public static String getEveningDressesPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("reservation2PageUrl");
+		return prop1.getProperty("eveningDressesPageUrl");
 
 	}
 
-	public static String getSignOnPageUrl() {
+	public static String getSummerDressesPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("signOnPageUrl");
+		return prop1.getProperty("summerDressesPageUrl");
 
 	}
 
-	public static String getUnderConstructionPageUrl() {
+/*	public static String getPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("underConstructionPageUrl");
+		return prop1.getProperty("");
 
 	}
+	*/
+	
 
-	public static String getWelcomePageUrl() {
-
-		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("welcomePageUrl");
-
-	}
 
 	public static long getImplicitWait() {
 
