@@ -49,7 +49,7 @@ public class NavigationMenu extends TestBase {
 		TestBase.test.log(Status.INFO, "Navigated to url= " + driver.getCurrentUrl());
 		women = new Page_women(driver);
 		vh = new VerificationHelper(driver);
-		String actualText = vh.getTextFromElement(women.txt_women);
+		String actualText = vh.getTextFromElement(women.txt_PageInfoBar);
 		Boolean status = vh.verifyTextEquals(actualText, "Women");
 		AssertionHelper.updateTestStatus(status);
 	}
@@ -66,7 +66,7 @@ public class NavigationMenu extends TestBase {
 		TestBase.test.log(Status.INFO, "Navigated to url= " + driver.getCurrentUrl());
 		dresses = new Page_dresses(driver);
 		vh = new VerificationHelper(driver);
-		String actualText = vh.getTextFromElement(dresses.txt_dresses);
+		String actualText = vh.getTextFromElement(dresses.txt_PageInfoBar);
 		Boolean status = vh.verifyContains(actualText, "Dresses");
 		AssertionHelper.updateTestStatus(status);
 	}
@@ -83,7 +83,7 @@ public class NavigationMenu extends TestBase {
 		TestBase.test.log(Status.INFO, "Navigated to url= " + driver.getCurrentUrl());
 		tshirts = new Page_tshirts(driver);
 		vh = new VerificationHelper(driver);
-		String actualText = vh.getTextFromElement(tshirts.txt_tshirts);
+		String actualText = vh.getTextFromElement(tshirts.txt_PageInfoBar);
 		Boolean status = vh.verifyContains(actualText, "T-shirts");
 		AssertionHelper.updateTestStatus(status);
 	}
@@ -101,7 +101,7 @@ public class NavigationMenu extends TestBase {
 		TestBase.test.log(Status.INFO, "Navigated to url= " + driver.getCurrentUrl());
 		tops = new Page_tops(driver);
 		vh = new VerificationHelper(driver);
-		String actualText = vh.getTextFromElement(tops.txt_tops);
+		String actualText = vh.getTextFromElement(tops.txt_PageInfoBar);
 		Boolean status = vh.verifyContains(actualText, "Tops");
 		AssertionHelper.updateTestStatus(status);
 	}
