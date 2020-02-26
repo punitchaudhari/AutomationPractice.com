@@ -25,8 +25,11 @@ public class Page_blouses {
 		TestBase.test.log(Status.INFO, "Page_blouses Class Object Created");
 	}
 
-	@FindBy(xpath = "	//*[@id='columns']/div[1]/a[1]")
+	@FindBy(xpath = "//*[@id='columns']/div[1]/a[1]")
 	public WebElement img_homeIcon;
+
+	@FindBy(xpath = "//*[@id='columns']/div[1]")
+	public WebElement txt_PageInfoBar;
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[2]")
 	public WebElement link_women;
