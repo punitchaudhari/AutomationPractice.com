@@ -25,6 +25,9 @@ public class Page_authentication {
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a")
 	WebElement img_homeIcon;
+	
+	@FindBy(xpath = "//*[@id='columns']/div[1]")
+	public WebElement txt_PageInfoBar;
 
 	@FindBy(xpath = "//*[@id='center_column']/h1")
 	WebElement lbl_authentication;
