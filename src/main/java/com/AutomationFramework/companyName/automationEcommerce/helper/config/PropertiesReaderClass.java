@@ -100,7 +100,32 @@ public class PropertiesReaderClass {
 		return prop1.getProperty("summerDressesPageUrl");
 
 	}
+	public static String getValidEmail() {
 
+		Properties prop1 = PropertiesReaderClass();
+		return prop1.getProperty("validEmail");
+
+	}
+
+	public static String getValidPassword() {
+
+		Properties prop1 = PropertiesReaderClass();
+		return prop1.getProperty("validPassword");
+
+	}
+	public static String getInvalidEmail() {
+
+		Properties prop1 = PropertiesReaderClass();
+		return prop1.getProperty("InvalidEmail");
+
+	}
+
+	public static String getInvalidPassword() {
+
+		Properties prop1 = PropertiesReaderClass();
+		return prop1.getProperty("InvalidPassword");
+
+	}
 /*	public static String getPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();
@@ -145,19 +170,7 @@ public class PropertiesReaderClass {
 
 	}
 	
-	public static String getValidUserName() {
 
-		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("validUsername");
-
-	}
-
-	public static String getValidPassword() {
-
-		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("validPassword");
-
-	}
 	public static String getInValidUserName() {
 
 		Properties prop1 = PropertiesReaderClass();
