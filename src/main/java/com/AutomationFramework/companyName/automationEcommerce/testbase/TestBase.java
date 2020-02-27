@@ -203,13 +203,10 @@ public class TestBase {
 
 	}
 
-	/**
-	 * this method simply gets the text of webelement and returns it
-	 * 
-	 * @param element
-	 * @return 
-	 */
-	
+	public void getNavigatedPageUrlLog() {
+		log.info("Navigated to url= " + driver.getCurrentUrl());
+		TestBase.test.log(Status.INFO, "Navigated to url= " + driver.getCurrentUrl());
+	}	
 	
 
 }
