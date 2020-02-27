@@ -323,3 +323,755 @@
 2020-02-26 05:02:298 INFO  TestBase:110 - ============Closing the browser============
 2020-02-26 05:02:25 INFO  TestBase:70 - ============Ending the TESTS execution============
 2020-02-26 05:02:87 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 12:02:895 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 12:02:906 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 12:02:929 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 12:02:927 INFO  TestBase:88 - ============ID02_verifyDressesButtonFunctionality============Started============
+2020-02-26 12:02:941 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 12:02:946 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 12:02:738 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 12:02:784 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 12:02:47 INFO  NavigationMenu:137 - clicked on 'DRESSES' menu
+2020-02-26 12:02:87 INFO  NavigationMenu:62 - Navigated to url= http://automationpractice.com/index.php?id_category=8&controller=category
+2020-02-26 12:02:99 INFO  Page_dresses:24 - Page_dresses Class Object Created
+2020-02-26 12:02:100 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 12:02:643 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 12:02:672 INFO  VerificationHelper:89 - element text is => Women>Dresses
+2020-02-26 12:02:769 INFO  VerificationHelper:122 - verifying if text is equals of '> Women>Dresses' with 'Dresses'
+2020-02-26 12:02:771 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-26 12:02:785 INFO  TestBase:105 - ============ID02_verifyDressesButtonFunctionality============Finished============
+2020-02-26 12:02:786 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 12:02:574 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 12:02:610 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 12:02:378 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 12:02:393 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 12:02:425 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 12:02:500 INFO  TestBase:88 - ============ID02_verifyDressesButtonFunctionality============Started============
+2020-02-26 12:02:516 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 12:02:520 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 12:02:585 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 12:02:633 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 12:02:554 INFO  NavigationMenu:137 - clicked on 'DRESSES' menu
+2020-02-26 12:02:589 INFO  NavigationMenu:62 - Navigated to url= http://automationpractice.com/index.php?id_category=8&controller=category
+2020-02-26 12:02:602 INFO  Page_dresses:24 - Page_dresses Class Object Created
+2020-02-26 12:02:606 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 12:02:48 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 12:02:79 INFO  VerificationHelper:89 - element text is => Women>Dresses
+2020-02-26 12:02:129 INFO  VerificationHelper:135 - verifying that='> Women>Dresses' contains text= 'Dresses'
+2020-02-26 12:02:133 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 12:02:140 INFO  TestBase:105 - ============ID02_verifyDressesButtonFunctionality============Finished============
+2020-02-26 12:02:142 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 12:02:889 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 12:02:918 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 12:02:56 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 12:02:67 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 12:02:90 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 12:02:366 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 12:02:380 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 12:02:403 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 12:02:116 INFO  TestBase:88 - ============ID03_verifyTshirtsButtonFunctionality============Started============
+2020-02-26 12:02:122 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 12:02:128 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 12:02:514 INFO  TestBase:88 - ============ID03_verifyTshirtsButtonFunctionality============Started============
+2020-02-26 12:02:523 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 12:02:534 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 12:02:798 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 12:02:842 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 12:02:633 INFO  NavigationMenu:143 - clicked on 'T-SHIRTS' menu
+2020-02-26 12:02:683 INFO  NavigationMenu:82 - Navigated to url= http://automationpractice.com/index.php?id_category=5&controller=category
+2020-02-26 12:02:694 INFO  Page_tshirts:24 - Page_tshirts Class Object Created
+2020-02-26 12:02:696 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 12:02:983 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 12:02:14 INFO  VerificationHelper:89 - element text is => Women>Tops>T-shirts
+2020-02-26 12:02:69 INFO  VerificationHelper:135 - verifying that='> Women>Tops>T-shirts' contains text= 'T-shirts'
+2020-02-26 12:02:72 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 12:02:77 INFO  TestBase:105 - ============ID03_verifyTshirtsButtonFunctionality============Finished============
+2020-02-26 12:02:78 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 12:02:228 INFO  TestBase:105 - ============ID03_verifyTshirtsButtonFunctionality============Finished============
+2020-02-26 12:02:232 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 12:02:789 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 12:02:946 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 12:02:213 INFO  TestBase:88 - ============ID04_verifyTopsButtonFunctionality============Started============
+2020-02-26 12:02:227 INFO  TestBase:105 - ============ID04_verifyTopsButtonFunctionality============Finished============
+2020-02-26 12:02:229 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 12:02:780 INFO  TestBase:88 - ============ID04_verifyTopsButtonFunctionality============Started============
+2020-02-26 12:02:782 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 12:02:794 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 12:02:890 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 12:02:986 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 12:02:337 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 12:02:341 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 12:02:343 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 12:02:502 INFO  ActionHelper:27 - moved mouse pointer to webElement
+2020-02-26 12:02:788 INFO  NavigationMenu:148 - clicked on 'tops'
+2020-02-26 12:02:823 INFO  NavigationMenu:100 - Navigated to url= http://automationpractice.com/index.php?id_category=4&controller=category
+2020-02-26 12:02:834 INFO  Page_tops:24 - Page_tops Class Object Created
+2020-02-26 12:02:835 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 12:02:571 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 12:02:623 INFO  VerificationHelper:89 - element text is => Women>Tops
+2020-02-26 12:02:690 INFO  VerificationHelper:135 - verifying that='> Women>Tops' contains text= 'T-shirts'
+2020-02-26 12:02:690 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-26 12:02:704 INFO  TestBase:105 - ============ID04_verifyTopsButtonFunctionality============Finished============
+2020-02-26 12:02:704 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 12:02:442 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 12:02:481 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 13:02:500 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 13:02:510 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 13:02:534 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:593 INFO  TestBase:88 - ============ID04_verifyTopsButtonFunctionality============Started============
+2020-02-26 13:02:601 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:610 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:810 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:879 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:882 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:144 INFO  TestBase:105 - ============ID04_verifyTopsButtonFunctionality============Finished============
+2020-02-26 13:02:145 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:773 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 13:02:820 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 13:02:959 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 13:02:967 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 13:02:987 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:25 INFO  TestBase:88 - ============ID04_verifyTopsButtonFunctionality============Started============
+2020-02-26 13:02:37 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:42 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:272 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:354 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:355 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:664 INFO  TestBase:105 - ============ID04_verifyTopsButtonFunctionality============Finished============
+2020-02-26 13:02:664 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:285 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 13:02:334 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 13:02:796 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 13:02:807 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 13:02:827 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:938 INFO  TestBase:88 - ============ID04_verifyTopsButtonFunctionality============Started============
+2020-02-26 13:02:951 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:967 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:189 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:262 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:265 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:917 INFO  TestBase:105 - ============ID04_verifyTopsButtonFunctionality============Finished============
+2020-02-26 13:02:919 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:535 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 13:02:579 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 13:02:950 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 13:02:960 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 13:02:981 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:48 INFO  TestBase:88 - ============ID04_verifyTopsButtonFunctionality============Started============
+2020-02-26 13:02:61 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:68 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:177 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:232 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:235 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:399 INFO  ActionHelper:27 - moved mouse pointer to webElement
+2020-02-26 13:02:310 INFO  NavigationMenu:148 - clicked on 'tops'
+2020-02-26 13:02:364 INFO  NavigationMenu:100 - Navigated to url= http://automationpractice.com/index.php?id_category=4&controller=category
+2020-02-26 13:02:378 INFO  Page_tops:24 - Page_tops Class Object Created
+2020-02-26 13:02:380 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:856 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:885 INFO  VerificationHelper:89 - element text is => Women>Tops
+2020-02-26 13:02:963 INFO  VerificationHelper:135 - verifying that='> Women>Tops' contains text= 'Tops'
+2020-02-26 13:02:965 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:968 INFO  TestBase:105 - ============ID04_verifyTopsButtonFunctionality============Finished============
+2020-02-26 13:02:968 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:684 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 13:02:721 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 13:02:751 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 13:02:763 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 13:02:787 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:826 INFO  TestBase:88 - ============ID01_verifyWomenMenuButtonFunctionality============Started============
+2020-02-26 13:02:128 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:61 INFO  NavigationMenu:131 - clicked on 'WOMEN' menu
+2020-02-26 13:02:114 INFO  NavigationMenu:48 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-02-26 13:02:131 INFO  Page_women:23 - Page_women Class Object Created
+2020-02-26 13:02:133 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:92 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:285 INFO  VerificationHelper:89 - element text is => Women
+2020-02-26 13:02:335 INFO  VerificationHelper:122 - verifying if text is equals of '> Women' with 'Women'
+2020-02-26 13:02:336 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-26 13:02:346 INFO  TestBase:105 - ============ID01_verifyWomenMenuButtonFunctionality============Finished============
+2020-02-26 13:02:347 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:43 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:345 INFO  TestBase:88 - ============ID02_verifyDressesMenuButtonFunctionality============Started============
+2020-02-26 13:02:355 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:360 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:611 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:613 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:664 INFO  NavigationMenu:137 - clicked on 'DRESSES' menu
+2020-02-26 13:02:725 INFO  NavigationMenu:65 - Navigated to url= http://automationpractice.com/index.php?id_category=8&controller=category
+2020-02-26 13:02:736 INFO  Page_dresses:24 - Page_dresses Class Object Created
+2020-02-26 13:02:736 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:878 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:919 INFO  VerificationHelper:89 - element text is => Women>Dresses
+2020-02-26 13:02:979 INFO  VerificationHelper:135 - verifying that='> Women>Dresses' contains text= 'Dresses'
+2020-02-26 13:02:979 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:983 INFO  TestBase:105 - ============ID02_verifyDressesMenuButtonFunctionality============Finished============
+2020-02-26 13:02:984 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:789 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:78 INFO  TestBase:88 - ============ID03_verifyTshirtsMenuButtonFunctionality============Started============
+2020-02-26 13:02:79 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:90 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:901 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:903 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:673 INFO  NavigationMenu:143 - clicked on 'T-SHIRTS' menu
+2020-02-26 13:02:724 INFO  NavigationMenu:82 - Navigated to url= http://automationpractice.com/index.php?id_category=5&controller=category
+2020-02-26 13:02:737 INFO  Page_tshirts:24 - Page_tshirts Class Object Created
+2020-02-26 13:02:738 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:753 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:793 INFO  VerificationHelper:89 - element text is => Women>Tops>T-shirts
+2020-02-26 13:02:844 INFO  VerificationHelper:135 - verifying that='> Women>Tops>T-shirts' contains text= 'T-shirts'
+2020-02-26 13:02:844 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:847 INFO  TestBase:105 - ============ID03_verifyTshirtsMenuButtonFunctionality============Finished============
+2020-02-26 13:02:847 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:552 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:812 INFO  TestBase:88 - ============ID04_verifyTopsButtonFunctionality============Started============
+2020-02-26 13:02:815 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:823 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:786 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:788 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:789 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:949 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:13 INFO  NavigationMenu:148 - clicked on 'tops'
+2020-02-26 13:02:67 INFO  NavigationMenu:100 - Navigated to url= http://automationpractice.com/index.php?id_category=4&controller=category
+2020-02-26 13:02:77 INFO  Page_tops:24 - Page_tops Class Object Created
+2020-02-26 13:02:78 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:136 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:174 INFO  VerificationHelper:89 - element text is => Women>Tops
+2020-02-26 13:02:236 INFO  VerificationHelper:135 - verifying that='> Women>Tops' contains text= 'Tops'
+2020-02-26 13:02:237 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:238 INFO  TestBase:105 - ============ID04_verifyTopsButtonFunctionality============Finished============
+2020-02-26 13:02:239 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:973 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:289 INFO  TestBase:88 - ============ID05_verifyTshirtsButtonFunctionality============Started============
+2020-02-26 13:02:292 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:296 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:129 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:131 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:132 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:277 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:83 INFO  NavigationMenu:153 - clicked on 'T-shirts'
+2020-02-26 13:02:148 INFO  NavigationMenu:119 - Navigated to url= http://automationpractice.com/index.php?id_category=5&controller=category
+2020-02-26 13:02:154 INFO  Page_tshirts:24 - Page_tshirts Class Object Created
+2020-02-26 13:02:154 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:197 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:235 INFO  VerificationHelper:89 - element text is => Women>Tops>T-shirts
+2020-02-26 13:02:285 INFO  VerificationHelper:135 - verifying that='> Women>Tops>T-shirts' contains text= 'T-shirts'
+2020-02-26 13:02:285 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:287 INFO  TestBase:105 - ============ID05_verifyTshirtsButtonFunctionality============Finished============
+2020-02-26 13:02:287 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:15 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:312 INFO  TestBase:88 - ============ID06_verifyBlousesButtonFunctionality============Started============
+2020-02-26 13:02:313 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:319 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:02 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:04 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:05 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:198 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:06 INFO  NavigationMenu:158 - clicked on 'Blouses
+2020-02-26 13:02:52 INFO  NavigationMenu:137 - Navigated to url= http://automationpractice.com/index.php?id_category=7&controller=category
+2020-02-26 13:02:59 INFO  Page_blouses:24 - Page_blouses Class Object Created
+2020-02-26 13:02:59 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:64 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:97 INFO  VerificationHelper:89 - element text is => Women>Tops>Blouses
+2020-02-26 13:02:149 INFO  VerificationHelper:135 - verifying that='> Women>Tops>Blouses' contains text= 'Blouses'
+2020-02-26 13:02:149 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:151 INFO  TestBase:105 - ============ID06_verifyBlousesButtonFunctionality============Finished============
+2020-02-26 13:02:151 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:890 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:198 INFO  TestBase:88 - ============ID07_verifyDressesButtonFunctionality============Started============
+2020-02-26 13:02:204 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:209 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:78 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:80 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:80 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:225 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:520 INFO  NavigationMenu:163 - clicked on 'DRESSES'
+2020-02-26 13:02:553 INFO  NavigationMenu:155 - Navigated to url= http://automationpractice.com/index.php?id_category=8&controller=category
+2020-02-26 13:02:560 INFO  Page_dresses:24 - Page_dresses Class Object Created
+2020-02-26 13:02:561 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:621 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:654 INFO  VerificationHelper:89 - element text is => Women>Dresses
+2020-02-26 13:02:715 INFO  VerificationHelper:135 - verifying that='> Women>Dresses' contains text= 'Dresses'
+2020-02-26 13:02:715 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:717 INFO  TestBase:105 - ============ID07_verifyDressesButtonFunctionality============Finished============
+2020-02-26 13:02:717 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:430 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:792 INFO  TestBase:88 - ============ID08_verifyCasualDressesButtonFunctionality============Started============
+2020-02-26 13:02:793 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:797 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:751 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:752 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:753 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:904 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:808 INFO  NavigationMenu:163 - clicked on 'DRESSES'
+2020-02-26 13:02:835 INFO  NavigationMenu:173 - Navigated to url= http://automationpractice.com/index.php?id_category=8&controller=category
+2020-02-26 13:02:841 INFO  Page_casualDresses:22 - Page_casualDresses Class Object Created
+2020-02-26 13:02:842 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:941 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:982 INFO  VerificationHelper:89 - element text is => Women>Dresses
+2020-02-26 13:02:30 INFO  VerificationHelper:135 - verifying that='> Women>Dresses' contains text= 'Casual Dresses'
+2020-02-26 13:02:30 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-26 13:02:33 INFO  TestBase:105 - ============ID08_verifyCasualDressesButtonFunctionality============Finished============
+2020-02-26 13:02:33 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:729 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:25 INFO  TestBase:88 - ============ID09_verifyEveningDressesButtonFunctionality============Started============
+2020-02-26 13:02:27 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:31 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:20 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:21 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:22 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:173 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:997 INFO  NavigationMenu:173 - clicked on 'Evening Dresses'
+2020-02-26 13:02:28 INFO  NavigationMenu:191 - Navigated to url= http://automationpractice.com/index.php?id_category=10&controller=category
+2020-02-26 13:02:37 INFO  Page_eveningDresses:22 - Page_eveningDresses Class Object Created
+2020-02-26 13:02:37 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:57 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:86 INFO  VerificationHelper:89 - element text is => Women>Dresses>Evening Dresses
+2020-02-26 13:02:150 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Evening Dresses' contains text= 'Evening Dresses'
+2020-02-26 13:02:150 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:156 INFO  TestBase:105 - ============ID09_verifyEveningDressesButtonFunctionality============Finished============
+2020-02-26 13:02:156 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:910 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:180 INFO  TestBase:88 - ============ID10_verifySummerDressesButtonFunctionality============Started============
+2020-02-26 13:02:181 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:189 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:954 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:956 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:957 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:104 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:908 INFO  NavigationMenu:178 - clicked on 'Summer Dresses'
+2020-02-26 13:02:946 INFO  NavigationMenu:209 - Navigated to url= http://automationpractice.com/index.php?id_category=11&controller=category
+2020-02-26 13:02:954 INFO  Page_summerDresses:22 - Page_summerDresses Class Object Created
+2020-02-26 13:02:954 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:01 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:35 INFO  VerificationHelper:89 - element text is => Women>Dresses>Summer Dresses
+2020-02-26 13:02:91 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Summer Dresses' contains text= 'Summer Dresses'
+2020-02-26 13:02:91 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:105 INFO  TestBase:105 - ============ID10_verifySummerDressesButtonFunctionality============Finished============
+2020-02-26 13:02:105 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:865 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:177 INFO  TestBase:88 - ============ID11_verifyCasualDressesButtonFunctionality============Started============
+2020-02-26 13:02:178 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:180 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:891 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:892 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:893 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:39 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:914 INFO  NavigationMenu:194 - clicked on 'CASUAL DRESSES'
+2020-02-26 13:02:946 INFO  NavigationMenu:231 - Navigated to url= http://automationpractice.com/index.php?id_category=9&controller=category
+2020-02-26 13:02:951 INFO  Page_casualDresses:22 - Page_casualDresses Class Object Created
+2020-02-26 13:02:951 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:976 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:24 INFO  VerificationHelper:89 - element text is => Women>Dresses>Casual Dresses
+2020-02-26 13:02:79 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Casual Dresses' contains text= 'Casual Dresses'
+2020-02-26 13:02:79 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:81 INFO  TestBase:105 - ============ID11_verifyCasualDressesButtonFunctionality============Finished============
+2020-02-26 13:02:82 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:798 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:48 INFO  TestBase:88 - ============ID12_verifyEveningDressesButtonFunctionality============Started============
+2020-02-26 13:02:49 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:55 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:44 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:45 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:45 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:192 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:992 INFO  NavigationMenu:199 - clicked on 'EVENING DRESSES'
+2020-02-26 13:02:20 INFO  NavigationMenu:249 - Navigated to url= http://automationpractice.com/index.php?id_category=9&controller=category
+2020-02-26 13:02:25 INFO  Page_eveningDresses:22 - Page_eveningDresses Class Object Created
+2020-02-26 13:02:25 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:984 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:15 INFO  VerificationHelper:89 - element text is => Women>Dresses>Casual Dresses
+2020-02-26 13:02:64 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Casual Dresses' contains text= 'Evening Dresses'
+2020-02-26 13:02:64 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-26 13:02:72 INFO  TestBase:105 - ============ID12_verifyEveningDressesButtonFunctionality============Finished============
+2020-02-26 13:02:72 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:779 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 13:02:51 INFO  TestBase:88 - ============ID13_verifySummerDressesButtonFunctionality============Started============
+2020-02-26 13:02:52 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 13:02:58 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 13:02:227 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 13:02:228 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 13:02:228 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 13:02:375 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 13:02:367 INFO  NavigationMenu:204 - clicked on 'SUMMER DRESSES'
+2020-02-26 13:02:424 INFO  NavigationMenu:267 - Navigated to url= http://automationpractice.com/index.php?id_category=11&controller=category
+2020-02-26 13:02:434 INFO  Page_summerDresses:22 - Page_summerDresses Class Object Created
+2020-02-26 13:02:434 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 13:02:467 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 13:02:519 INFO  VerificationHelper:89 - element text is => Women>Dresses>Summer Dresses
+2020-02-26 13:02:570 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Summer Dresses' contains text= 'Summer Dresses'
+2020-02-26 13:02:572 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 13:02:574 INFO  TestBase:105 - ============ID13_verifySummerDressesButtonFunctionality============Finished============
+2020-02-26 13:02:574 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 13:02:340 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 13:02:385 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-26 14:02:22 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-26 14:02:33 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-26 14:02:54 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 14:02:99 INFO  TestBase:88 - ============ID01_verifyWomenMenuButtonFunctionality============Started============
+2020-02-26 14:02:41 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 14:02:41 INFO  NavigationMenu:131 - clicked on 'WOMEN' menu
+2020-02-26 14:02:85 INFO  NavigationMenu:48 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-02-26 14:02:94 INFO  Page_women:23 - Page_women Class Object Created
+2020-02-26 14:02:97 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 14:02:256 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 14:02:290 INFO  VerificationHelper:89 - element text is => Women
+2020-02-26 14:02:339 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Women'
+2020-02-26 14:02:343 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 14:02:349 INFO  TestBase:105 - ============ID01_verifyWomenMenuButtonFunctionality============Finished============
+2020-02-26 14:02:350 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 14:02:77 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 14:02:370 INFO  TestBase:88 - ============ID08_verifyCasualDressesButtonFunctionality============Started============
+2020-02-26 14:02:377 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 14:02:384 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 14:02:586 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 14:02:589 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 14:02:590 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 14:02:742 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 14:02:532 INFO  NavigationMenu:168 - clicked on 'Casual Dresses'
+2020-02-26 14:02:544 INFO  NavigationMenu:173 - Navigated to url= http://automationpractice.com/index.php?id_category=9&controller=category
+2020-02-26 14:02:557 INFO  Page_casualDresses:22 - Page_casualDresses Class Object Created
+2020-02-26 14:02:558 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 14:02:771 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 14:02:805 INFO  VerificationHelper:89 - element text is => Women>Dresses>Casual Dresses
+2020-02-26 14:02:862 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Casual Dresses' contains text= 'Casual Dresses'
+2020-02-26 14:02:863 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 14:02:866 INFO  TestBase:105 - ============ID08_verifyCasualDressesButtonFunctionality============Finished============
+2020-02-26 14:02:866 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 14:02:614 INFO  TestBase:83 - ============Launching the browser============
+2020-02-26 14:02:927 INFO  TestBase:88 - ============ID12_verifyEveningDressesButtonFunctionality============Started============
+2020-02-26 14:02:929 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-26 14:02:932 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-26 14:02:797 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-26 14:02:800 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-26 14:02:800 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-02-26 14:02:945 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-02-26 14:02:938 INFO  NavigationMenu:199 - clicked on 'EVENING DRESSES'
+2020-02-26 14:02:974 INFO  NavigationMenu:249 - Navigated to url= http://automationpractice.com/index.php?id_category=10&controller=category
+2020-02-26 14:02:987 INFO  Page_eveningDresses:22 - Page_eveningDresses Class Object Created
+2020-02-26 14:02:990 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-26 14:02:959 INFO  VerificationHelper:34 - element is Displayed
+2020-02-26 14:02:20 INFO  VerificationHelper:89 - element text is => Women>Dresses>Evening Dresses
+2020-02-26 14:02:69 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Evening Dresses' contains text= 'Evening Dresses'
+2020-02-26 14:02:69 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-26 14:02:71 INFO  TestBase:105 - ============ID12_verifyEveningDressesButtonFunctionality============Finished============
+2020-02-26 14:02:71 INFO  TestBase:110 - ============Closing the browser============
+2020-02-26 14:02:784 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-26 14:02:819 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 07:02:572 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 07:02:582 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 07:02:603 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 07:02:433 INFO  TestBase:88 - ============ID_verifyLoginFunctionality============Started============
+2020-02-27 07:02:470 INFO  TestBase:105 - ============ID_verifyLoginFunctionality============Finished============
+2020-02-27 07:02:470 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 07:02:663 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 07:02:703 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 07:02:460 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 07:02:474 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 07:02:494 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 07:02:565 INFO  TestBase:88 - ============ID_verifyLoginFunctionality============Started============
+2020-02-27 07:02:154 INFO  TestBase:105 - ============ID_verifyLoginFunctionality============Finished============
+2020-02-27 07:02:155 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 07:02:923 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 07:02:958 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 07:02:353 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 07:02:367 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 07:02:390 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 07:02:419 INFO  TestBase:88 - ============ID_verifyLoginFunctionality============Started============
+2020-02-27 07:02:438 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 07:02:451 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 07:02:468 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 07:02:165 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 07:02:838 INFO  Header:59 - Clicking on 'Sign In'
+2020-02-27 07:02:893 INFO  authentication:35 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 07:02:907 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-27 07:02:886 INFO  TestBase:105 - ============ID_verifyLoginFunctionality============Finished============
+2020-02-27 07:02:886 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 07:02:617 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 07:02:665 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 07:02:637 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 07:02:688 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 07:02:721 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 07:02:26 INFO  TestBase:88 - ============ID_verifyLoginFunctionality============Started============
+2020-02-27 07:02:44 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 07:02:57 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 07:02:63 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 07:02:604 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 07:02:875 INFO  Header:59 - Clicking on 'Sign In'
+2020-02-27 07:02:945 INFO  authentication:35 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 07:02:953 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-27 07:02:955 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 07:02:534 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 07:02:545 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 07:02:770 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-02-27 07:02:880 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-02-27 07:02:459 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-02-27 07:02:463 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-27 07:02:474 INFO  authentication:43 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-02-27 07:02:484 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-27 07:02:536 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-02-27 07:02:536 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 07:02:540 INFO  TestBase:105 - ============ID_verifyLoginFunctionality============Finished============
+2020-02-27 07:02:541 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 07:02:275 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 07:02:307 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 16:02:890 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 16:02:900 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 16:02:926 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 16:02:595 INFO  TestBase:88 - ============TC_navigatioMenu_ID_15_verifyCartButonFunctionality============Started============
+2020-02-27 16:02:611 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 16:02:628 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 16:02:86 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 16:02:133 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-27 16:02:962 INFO  NavigationMenu:220 - clicked on cart
+2020-02-27 16:02:11 INFO  NavigationMenu:302 - Navigated to url= http://automationpractice.com/index.php?controller=order
+2020-02-27 16:02:16 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 16:02:36 INFO  Page_yourShoppingCart:23 - Page_yourShoppingCart Class Object Created
+2020-02-27 16:02:98 INFO  VerificationHelper:135 - verifying that='> Your shopping cart' contains text= 'Your shopping cart'
+2020-02-27 16:02:102 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-27 16:02:107 INFO  TestBase:105 - ============TC_navigatioMenu_ID_15_verifyCartButonFunctionality============Finished============
+2020-02-27 16:02:108 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 16:02:876 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 16:02:927 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 16:02:941 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 16:02:951 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 16:02:974 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 16:02:51 INFO  TestBase:88 - ============TC_navigatioMenu_ID_14_verifyYourLogoImageFunctionality============Started============
+2020-02-27 16:02:62 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 16:02:66 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 16:02:295 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 16:02:334 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-27 16:02:647 INFO  NavigationMenu:209 - clicked on 'Your Logo' image
+2020-02-27 16:02:716 INFO  NavigationMenu:286 - Navigated to url= http://automationpractice.com/index.php
+2020-02-27 16:02:724 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 16:02:730 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'http://automationpractice.com/index.php'
+2020-02-27 16:02:735 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-27 16:02:738 INFO  TestBase:105 - ============TC_navigatioMenu_ID_14_verifyYourLogoImageFunctionality============Finished============
+2020-02-27 16:02:738 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 16:02:422 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 16:02:733 INFO  TestBase:88 - ============TC_navigatioMenu_ID_15_verifyCartButonFunctionality============Started============
+2020-02-27 16:02:735 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 16:02:742 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 16:02:887 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 16:02:890 INFO  NavigationMenu:28 - NavigationMenu Class Object Created
+2020-02-27 16:02:625 INFO  NavigationMenu:220 - clicked on cart
+2020-02-27 16:02:682 INFO  NavigationMenu:302 - Navigated to url= http://automationpractice.com/index.php?controller=order
+2020-02-27 16:02:690 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 16:02:694 INFO  Page_yourShoppingCart:23 - Page_yourShoppingCart Class Object Created
+2020-02-27 16:02:222 INFO  VerificationHelper:135 - verifying that='> Your shopping cart' contains text= 'Your shopping cart'
+2020-02-27 16:02:223 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-27 16:02:226 INFO  TestBase:105 - ============TC_navigatioMenu_ID_15_verifyCartButonFunctionality============Finished============
+2020-02-27 16:02:227 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 16:02:935 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 16:02:972 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 17:02:443 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 17:02:461 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 17:02:484 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:644 INFO  TestBase:88 - ============TC_header_ID_01_verifySale70percentageOffImageFunctionality============Started============
+2020-02-27 17:02:660 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:671 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:675 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:44 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:993 INFO  Header:49 - Clicking on Image Sale 70% off all products
+2020-02-27 17:02:60 INFO  header:38 - Navigated to url= http://automationpractice.com/index.php
+2020-02-27 17:02:65 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:85 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'http://automationpractice.com/index.php'
+2020-02-27 17:02:91 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-27 17:02:94 INFO  TestBase:105 - ============TC_header_ID_01_verifySale70percentageOffImageFunctionality============Finished============
+2020-02-27 17:02:94 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:819 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:111 INFO  TestBase:88 - ============TC_header_ID_02_verifyCallUsNowContactNumberFunctionality============Started============
+2020-02-27 17:02:117 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:122 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:127 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:12 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:13 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:95 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:130 INFO  VerificationHelper:89 - element text is =0123-456-789
+2020-02-27 17:02:169 INFO  VerificationHelper:122 - verifying if text is equals of '0123-456-789' with '0123-456-789'
+2020-02-27 17:02:170 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-27 17:02:172 INFO  TestBase:105 - ============TC_header_ID_02_verifyCallUsNowContactNumberFunctionality============Finished============
+2020-02-27 17:02:172 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:890 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:174 INFO  TestBase:88 - ============TC_header_ID_03_verifyContactUsTabButtonFunctionality============Started============
+2020-02-27 17:02:176 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:182 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:188 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:984 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:856 INFO  Header:54 - Clicking on 'Contact Us'
+2020-02-27 17:02:887 INFO  header:67 - Navigated to url= http://automationpractice.com/index.php?controller=contact
+2020-02-27 17:02:898 INFO  Page_contact:22 - Page_contact Class Object Created
+2020-02-27 17:02:899 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:421 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:457 INFO  VerificationHelper:89 - element text is => Contact
+2020-02-27 17:02:505 INFO  VerificationHelper:122 - verifying if text is equals of '> Contact' with 'Contact'
+2020-02-27 17:02:505 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-27 17:02:515 INFO  TestBase:105 - ============TC_header_ID_03_verifyContactUsTabButtonFunctionality============Finished============
+2020-02-27 17:02:516 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:278 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 17:02:317 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 17:02:519 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 17:02:532 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 17:02:553 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:699 INFO  TestBase:88 - ============TC_header_ID_03_verifyContactUsTabButtonFunctionality============Started============
+2020-02-27 17:02:729 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:737 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:803 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:888 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:545 INFO  Header:54 - Clicking on 'Contact Us'
+2020-02-27 17:02:589 INFO  header:67 - Navigated to url= http://automationpractice.com/index.php?controller=contact
+2020-02-27 17:02:602 INFO  Page_contact:22 - Page_contact Class Object Created
+2020-02-27 17:02:605 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:115 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:144 INFO  VerificationHelper:89 - element text is => Contact
+2020-02-27 17:02:186 INFO  VerificationHelper:135 - verifying that='> Contact' contains text= 'Contact'
+2020-02-27 17:02:189 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-27 17:02:195 INFO  TestBase:105 - ============TC_header_ID_03_verifyContactUsTabButtonFunctionality============Finished============
+2020-02-27 17:02:196 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:889 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 17:02:931 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 17:02:993 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 17:02:05 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 17:02:29 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:988 INFO  TestBase:88 - ============TC_header_ID_04_verifySignInButtonFunctionality============Started============
+2020-02-27 17:02:06 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:20 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:25 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:869 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:768 INFO  Header:59 - Clicking on 'Sign In'
+2020-02-27 17:02:821 INFO  header:87 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:830 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-27 17:02:831 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:416 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:449 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:496 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:498 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-27 17:02:502 INFO  TestBase:105 - ============TC_header_ID_04_verifySignInButtonFunctionality============Finished============
+2020-02-27 17:02:503 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:245 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 17:02:278 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 17:02:484 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 17:02:493 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 17:02:514 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:548 INFO  TestBase:88 - ============TC_header_ID_05_verifySignoutButtonFunctionality============Started============
+2020-02-27 17:02:560 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:565 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:574 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:312 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-27 17:02:351 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:37 INFO  Header:59 - Clicking on 'Sign In'
+2020-02-27 17:02:64 INFO  header:107 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:73 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-27 17:02:76 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:674 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:708 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:759 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:770 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:943 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-02-27 17:02:65 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-02-27 17:02:79 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-02-27 17:02:82 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-27 17:02:90 INFO  header:118 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-02-27 17:02:287 INFO  Header:64 - Clicking on 'Sign Out'
+2020-02-27 17:02:296 INFO  header:121 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:348 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:378 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:419 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:419 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:422 INFO  TestBase:105 - ============TC_header_ID_05_verifySignoutButtonFunctionality============Finished============
+2020-02-27 17:02:423 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:110 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 17:02:141 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 17:02:726 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 17:02:735 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 17:02:755 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:767 INFO  TestBase:88 - ============TC_header_ID_05_verifySignoutButtonFunctionality============Started============
+2020-02-27 17:02:778 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:782 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:786 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:985 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-27 17:02:16 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:208 INFO  Header:59 - Clicking on 'Sign In'
+2020-02-27 17:02:226 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:240 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-27 17:02:241 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:813 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:845 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:902 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:907 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:74 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-02-27 17:02:194 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-02-27 17:02:727 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-02-27 17:02:730 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-27 17:02:736 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-02-27 17:02:773 INFO  Header:64 - Clicking on 'Sign Out'
+2020-02-27 17:02:782 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:833 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:862 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:903 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:904 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:906 INFO  TestBase:105 - ============TC_header_ID_05_verifySignoutButtonFunctionality============Finished============
+2020-02-27 17:02:906 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:595 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 17:02:628 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-27 17:02:159 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-27 17:02:172 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-27 17:02:200 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:221 INFO  TestBase:88 - ============TC_header_ID_05_verifySignoutButtonFunctionality============Started============
+2020-02-27 17:02:234 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:239 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:245 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:977 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-27 17:02:07 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:95 INFO  Header:59 - Clicking on 'Sign In'
+2020-02-27 17:02:116 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:126 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-27 17:02:129 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:699 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:732 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:794 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:798 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:967 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-02-27 17:02:78 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-02-27 17:02:852 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-02-27 17:02:856 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-27 17:02:862 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-02-27 17:02:992 INFO  Header:64 - Clicking on 'Sign Out'
+2020-02-27 17:02:998 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:58 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:84 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:124 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:124 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:128 INFO  TestBase:105 - ============TC_header_ID_05_verifySignoutButtonFunctionality============Finished============
+2020-02-27 17:02:129 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:816 INFO  TestBase:83 - ============Launching the browser============
+2020-02-27 17:02:135 INFO  TestBase:88 - ============TC_header_ID_06_verifyUsernameButtonFunctionality============Started============
+2020-02-27 17:02:137 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-27 17:02:145 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-27 17:02:149 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-27 17:02:610 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-27 17:02:611 INFO  Header:22 - HeaderBar Class Object Created
+2020-02-27 17:02:960 INFO  Header:59 - Clicking on 'Sign In'
+2020-02-27 17:02:996 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-02-27 17:02:10 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-02-27 17:02:11 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-27 17:02:635 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:667 INFO  VerificationHelper:89 - element text is => Authentication
+2020-02-27 17:02:708 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-02-27 17:02:709 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:922 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-02-27 17:02:39 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-02-27 17:02:741 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-02-27 17:02:742 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-27 17:02:747 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-02-27 17:02:850 INFO  Header:69 - Clicking on User Account
+2020-02-27 17:02:859 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-02-27 17:02:867 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-02-27 17:02:910 INFO  VerificationHelper:34 - element is Displayed
+2020-02-27 17:02:943 INFO  VerificationHelper:89 - element text is => My account
+2020-02-27 17:02:988 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-02-27 17:02:989 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-02-27 17:02:991 INFO  TestBase:105 - ============TC_header_ID_06_verifyUsernameButtonFunctionality============Finished============
+2020-02-27 17:02:992 INFO  TestBase:110 - ============Closing the browser============
+2020-02-27 17:02:684 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-27 17:02:718 INFO  TestBase:124 - ============Ending the suite execution============

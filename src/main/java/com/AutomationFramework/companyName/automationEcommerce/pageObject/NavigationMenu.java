@@ -195,7 +195,7 @@ public class NavigationMenu {
 		TestBase.test.log(Status.INFO, "clicked on 'CASUAL DRESSES'");
 	}
 	public void clk_DRESSES_eveningDresses(){
-		lbl_dresses_CasualDresses.click();
+		lbl_dresses_EveningDresses.click();
 		log.info("clicked on 'EVENING DRESSES'");
 		TestBase.test.log(Status.INFO, "clicked on 'EVENING DRESSES'");
 	}
