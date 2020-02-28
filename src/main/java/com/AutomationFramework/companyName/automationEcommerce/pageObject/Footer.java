@@ -94,6 +94,9 @@ public class Footer {
 	@FindBy(xpath="//*[@id='footer']/div/section[4]/div/a")
 	public WebElement link_ecommerceSoftwareByPrestaShop;	
 	
+	@FindBy(xpath="//*[@id='columns']/p")
+	public WebElement lbl_Newsletter_subscription_alert_status;	
+	
 	
 	public void setNewsLetterEmail(String email){
 		txt_newsletter.sendKeys(email);

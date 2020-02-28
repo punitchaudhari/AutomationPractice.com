@@ -3,17 +3,18 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.header">
+      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.footer">
         <methods>
+          <include name="TC_footer_ID_03_verifyNewsletterSubscriptionFunctionality"/>
+          <include name="TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
           <include name="afterSuite"/>
           <include name="afterTest"/>
-          <include name="TC_header_ID_03_verifyContactUsTabButtonFunctionality"/>
           <include name="beforeSuite"/>
         </methods>
-      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.header -->
+      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.footer -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

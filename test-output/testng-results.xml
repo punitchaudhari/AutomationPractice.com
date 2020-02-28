@@ -1,81 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="44522" started-at="2020-02-27T12:19:38Z" finished-at="2020-02-27T12:20:22Z">
+  <suite name="Default suite" duration-ms="20129" started-at="2020-02-28T07:51:52Z" finished-at="2020-02-28T07:52:12Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="44522" started-at="2020-02-27T12:19:38Z" finished-at="2020-02-27T12:20:22Z">
-      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.header">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="beforeSuite" is-config="true" duration-ms="156" started-at="2020-02-27T12:19:38Z" finished-at="2020-02-27T12:19:38Z">
+    <test name="Default test" duration-ms="20129" started-at="2020-02-28T07:51:52Z" finished-at="2020-02-28T07:52:12Z">
+      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.footer">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4]" name="beforeSuite" is-config="true" duration-ms="160" started-at="2020-02-28T07:51:52Z" finished-at="2020-02-28T07:51:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="beforeTest" is-config="true" duration-ms="17" started-at="2020-02-27T12:19:38Z" finished-at="2020-02-27T12:19:38Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4]" name="beforeTest" is-config="true" duration-ms="11" started-at="2020-02-28T07:51:52Z" finished-at="2020-02-28T07:51:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="beforeMethod" is-config="true" duration-ms="10024" started-at="2020-02-27T12:19:38Z" finished-at="2020-02-27T12:19:48Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4]" name="beforeMethod" is-config="true" duration-ms="10193" started-at="2020-02-28T07:51:52Z" finished-at="2020-02-28T07:52:02Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.header.TC_header_ID_05_verifySignoutButtonFunctionality()]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_header_ID_05_verifySignoutButtonFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="TC_header_ID_05_verifySignoutButtonFunctionality" duration-ms="11899" started-at="2020-02-27T12:19:48Z" finished-at="2020-02-27T12:20:00Z">
+        <test-method status="PASS" signature="TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4]" name="TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality" duration-ms="9127" started-at="2020-02-28T07:52:02Z" finished-at="2020-02-28T07:52:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_header_ID_05_verifySignoutButtonFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="afterMethod" is-config="true" duration-ms="690" started-at="2020-02-27T12:20:00Z" finished-at="2020-02-27T12:20:00Z">
+        </test-method> <!-- TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4]" name="afterMethod" is-config="true" duration-ms="768" started-at="2020-02-28T07:52:11Z" finished-at="2020-02-28T07:52:12Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_header_ID_05_verifySignoutButtonFunctionality status=SUCCESS method=header.TC_header_ID_05_verifySignoutButtonFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4] output={null}]]]>
+                <![CDATA[[TestResult name=TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality status=SUCCESS method=footer.TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="beforeMethod" is-config="true" duration-ms="9319" started-at="2020-02-27T12:20:00Z" finished-at="2020-02-27T12:20:10Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.header.TC_header_ID_06_verifyUsernameButtonFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_header_ID_06_verifyUsernameButtonFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="TC_header_ID_06_verifyUsernameButtonFunctionality" duration-ms="11854" started-at="2020-02-27T12:20:10Z" finished-at="2020-02-27T12:20:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_header_ID_06_verifyUsernameButtonFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="afterMethod" is-config="true" duration-ms="692" started-at="2020-02-27T12:20:21Z" finished-at="2020-02-27T12:20:22Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=TC_header_ID_06_verifyUsernameButtonFunctionality status=SUCCESS method=header.TC_header_ID_06_verifyUsernameButtonFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-02-27T12:20:22Z" finished-at="2020-02-27T12:20:22Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-02-28T07:52:12Z" finished-at="2020-02-28T07:52:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.header@210366b4]" name="afterSuite" is-config="true" duration-ms="295" started-at="2020-02-27T12:20:22Z" finished-at="2020-02-27T12:20:23Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@210366b4]" name="afterSuite" is-config="true" duration-ms="299" started-at="2020-02-28T07:52:12Z" finished-at="2020-02-28T07:52:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
-      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.header -->
+      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.footer -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

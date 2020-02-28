@@ -1075,3 +1075,173 @@
 2020-02-27 17:02:992 INFO  TestBase:110 - ============Closing the browser============
 2020-02-27 17:02:684 INFO  TestBase:70 - ============Ending the TESTS execution============
 2020-02-27 17:02:718 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 12:02:441 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 12:02:456 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 12:02:488 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 12:02:916 INFO  TestBase:88 - ============TC_footer_ID_01_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 12:02:924 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 12:02:937 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 12:02:940 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 12:02:393 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 12:02:428 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 12:02:686 INFO  Footer:103 - Typed = 'testmail20@yahoo.com' on newsletter field
+2020-02-28 12:02:289 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 12:02:295 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 12:02:465 INFO  VerificationHelper:34 - element is Displayed
+2020-02-28 12:02:680 INFO  VerificationHelper:89 - element text is =Newsletter : You have successfully subscribed to this newsletter.
+2020-02-28 12:02:738 INFO  VerificationHelper:135 - verifying that='Newsletter : You have successfully subscribed to this newsletter.' contains text= 'Newsletter : You have successfully subscribed to this newsletter.'
+2020-02-28 12:02:740 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 12:02:746 INFO  TestBase:105 - ============TC_footer_ID_01_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 12:02:746 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 12:02:495 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 12:02:529 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 12:02:980 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 12:02:990 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 12:02:14 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 12:02:325 INFO  TestBase:88 - ============TC_footer_ID_01_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 12:02:339 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 12:02:349 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 12:02:352 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 12:02:195 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 12:02:235 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 12:02:460 INFO  Footer:103 - Typed = 'testmail20@yahoo.com' on newsletter field
+2020-02-28 12:02:214 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 12:02:216 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 12:02:399 INFO  VerificationHelper:34 - element is Displayed
+2020-02-28 12:02:449 INFO  VerificationHelper:89 - element text is =Newsletter : This email address is already registered.
+2020-02-28 12:02:578 INFO  VerificationHelper:135 - verifying that='Newsletter : This email address is already registered.' contains text= 'Newsletter : You have successfully subscribed to this newsletter.'
+2020-02-28 12:02:581 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 12:02:600 INFO  TestBase:105 - ============TC_footer_ID_01_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 12:02:603 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 12:02:312 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 12:02:614 INFO  TestBase:88 - ============TC_footer_ID_02_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 12:02:616 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 12:02:621 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 12:02:629 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 12:02:908 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 12:02:910 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 12:02:160 INFO  Footer:103 - Typed = 'testmail20@yahoo.com' on newsletter field
+2020-02-28 12:02:680 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 12:02:681 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 12:02:738 INFO  VerificationHelper:34 - element is Displayed
+2020-02-28 12:02:805 INFO  VerificationHelper:89 - element text is =Newsletter : This email address is already registered.
+2020-02-28 12:02:869 INFO  VerificationHelper:135 - verifying that='Newsletter : This email address is already registered.' contains text= 'Newsletter : This email address is already registered.'
+2020-02-28 12:02:869 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 12:02:871 INFO  TestBase:105 - ============TC_footer_ID_02_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 12:02:872 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 12:02:536 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 12:02:945 INFO  TestBase:88 - ============TC_footer_ID_03_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 12:02:949 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 12:02:958 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 12:02:961 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 12:02:308 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 12:02:313 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 12:02:710 INFO  Footer:103 - Typed = 'testmail21@yahoo.com' on newsletter field
+2020-02-28 12:02:940 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 12:02:941 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 12:02:996 INFO  VerificationHelper:34 - element is Displayed
+2020-02-28 12:02:39 INFO  VerificationHelper:89 - element text is =
+2020-02-28 12:02:80 INFO  VerificationHelper:135 - verifying that='' contains text= 'You have successfully subscribed to this newsletter.'
+2020-02-28 12:02:80 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 12:02:85 INFO  TestBase:105 - ============TC_footer_ID_03_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 12:02:85 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 12:02:870 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 12:02:145 INFO  TestBase:88 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 12:02:146 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 12:02:151 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 12:02:159 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 12:02:453 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 12:02:454 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 12:02:695 INFO  Footer:103 - Typed = 'testmail21@yahoo.com' on newsletter field
+2020-02-28 12:02:184 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 12:02:185 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 12:02:236 INFO  VerificationHelper:34 - element is Displayed
+2020-02-28 12:02:275 INFO  VerificationHelper:89 - element text is =
+2020-02-28 12:02:392 INFO  VerificationHelper:135 - verifying that='' contains text= 'this email address is already registered'
+2020-02-28 12:02:394 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 12:02:399 INFO  TestBase:105 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 12:02:399 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 12:02:107 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 12:02:157 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:679 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:693 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:721 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:808 INFO  TestBase:88 - ============TC_footer_ID_03_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 13:02:835 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:841 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:854 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:131 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:165 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:419 INFO  Footer:103 - Typed = 'testmail22@yahoo.com' on newsletter field
+2020-02-28 13:02:864 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 13:02:939 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:939 INFO  VerificationHelper:135 - verifying that='You have successfully subscribed to this newsletter.' contains text= 'You have successfully subscribed to this newsletter.'
+2020-02-28 13:02:942 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 13:02:951 INFO  TestBase:105 - ============TC_footer_ID_03_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 13:02:952 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:729 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:73 INFO  TestBase:88 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 13:02:75 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:80 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:86 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:305 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:307 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:508 INFO  Footer:103 - Typed = 'testmail22@yahoo.com' on newsletter field
+2020-02-28 13:02:169 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 13:02:899 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:899 INFO  VerificationHelper:135 - verifying that='This email address is already registered.' contains text= 'this email address is already registered'
+2020-02-28 13:02:900 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:914 INFO  TestBase:105 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 13:02:915 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:690 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:735 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:934 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:944 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:964 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:83 INFO  TestBase:88 - ============TC_footer_ID_03_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 13:02:100 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:117 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:125 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:584 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:619 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:854 INFO  Footer:103 - Typed = 'testmail22@yahoo.com' on newsletter field
+2020-02-28 13:02:619 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 13:02:509 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:509 INFO  VerificationHelper:135 - verifying that='This email address is already registered.' contains text= 'You have successfully subscribed to this newsletter.'
+2020-02-28 13:02:516 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:534 INFO  TestBase:105 - ============TC_footer_ID_03_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 13:02:534 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:459 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:857 INFO  TestBase:88 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 13:02:859 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:864 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:873 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:590 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:593 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:08 INFO  Footer:103 - Typed = 'testmail22@yahoo.com' on newsletter field
+2020-02-28 13:02:765 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 13:02:800 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:801 INFO  VerificationHelper:135 - verifying that='This email address is already registered.' contains text= 'this email address is already registered.'
+2020-02-28 13:02:801 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:810 INFO  TestBase:105 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 13:02:811 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:630 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:690 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:192 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:202 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:225 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:414 INFO  TestBase:88 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Started============
+2020-02-28 13:02:437 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:443 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:457 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:565 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:600 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:865 INFO  Footer:103 - Typed = 'testmail22@yahoo.com' on newsletter field
+2020-02-28 13:02:400 INFO  Footer:108 - Clicking on newslettersubmit arrow button next to email field
+2020-02-28 13:02:540 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:541 INFO  VerificationHelper:135 - verifying that='This email address is already registered.' contains text= 'This email address is already registered.'
+2020-02-28 13:02:545 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 13:02:555 INFO  TestBase:105 - ============TC_footer_ID_04_verifyNewsletterSubscriptionFunctionality============Finished============
+2020-02-28 13:02:555 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:323 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:364 INFO  TestBase:124 - ============Ending the suite execution============
