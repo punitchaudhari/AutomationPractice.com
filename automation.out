@@ -1245,3 +1245,501 @@
 2020-02-28 13:02:555 INFO  TestBase:110 - ============Closing the browser============
 2020-02-28 13:02:323 INFO  TestBase:70 - ============Ending the TESTS execution============
 2020-02-28 13:02:364 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:330 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:340 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:364 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:412 INFO  TestBase:88 - ============TC_footer_ID_06_verifyTwitterButtonFunctionality============Started============
+2020-02-28 13:02:427 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:435 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:444 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:417 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:451 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:673 INFO  Footer:118 - Clicking on 'Twitter image link'
+2020-02-28 13:02:680 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:692 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:704 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'https://twitter.com/seleniumfrmwrk'
+2020-02-28 13:02:706 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:756 INFO  TestBase:105 - ============TC_footer_ID_06_verifyTwitterButtonFunctionality============Finished============
+2020-02-28 13:02:757 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:521 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:563 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:352 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:361 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:383 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:433 INFO  TestBase:88 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Started============
+2020-02-28 13:02:450 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:453 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:460 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:443 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:480 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:653 INFO  Footer:113 - Clicking on 'facebook image link'
+2020-02-28 13:02:671 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:679 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:694 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'https://www.facebook.com/groups/525066904174158/'
+2020-02-28 13:02:698 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:732 INFO  TestBase:105 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Finished============
+2020-02-28 13:02:733 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:474 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:812 INFO  TestBase:88 - ============TC_footer_ID_06_verifyTwitterButtonFunctionality============Started============
+2020-02-28 13:02:816 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:820 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:828 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:80 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:82 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:246 INFO  Footer:118 - Clicking on 'Twitter image link'
+2020-02-28 13:02:317 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:330 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:338 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'https://twitter.com/seleniumfrmwrk'
+2020-02-28 13:02:340 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:347 INFO  TestBase:105 - ============TC_footer_ID_06_verifyTwitterButtonFunctionality============Finished============
+2020-02-28 13:02:347 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:93 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:455 INFO  TestBase:88 - ============TC_footer_ID_07_verifyYoutubeButtonFunctionality============Started============
+2020-02-28 13:02:461 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:467 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:471 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:461 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:463 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:702 INFO  Footer:123 - Clicking on 'Youtube image link'
+2020-02-28 13:02:715 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:723 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:735 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'https://www.youtube.com/channel/UCHl59sI3SRjQ-qPcTrgt0tA'
+2020-02-28 13:02:736 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:745 INFO  TestBase:105 - ============TC_footer_ID_07_verifyYoutubeButtonFunctionality============Finished============
+2020-02-28 13:02:746 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:471 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:797 INFO  TestBase:88 - ============TC_footer_ID_08_verifyGooglePlusButtonFunctionality============Started============
+2020-02-28 13:02:799 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:803 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:811 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:28 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:30 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:195 INFO  Footer:128 - Clicking on 'Google Plud image link'
+2020-02-28 13:02:212 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:220 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:276 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'https://plus.google.com/111979135243110831526/posts'
+2020-02-28 13:02:277 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:280 INFO  TestBase:105 - ============TC_footer_ID_08_verifyGooglePlusButtonFunctionality============Finished============
+2020-02-28 13:02:281 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:48 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:94 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:70 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:81 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:111 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:498 INFO  TestBase:88 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Started============
+2020-02-28 13:02:514 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:522 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:529 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:636 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:671 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:897 INFO  Footer:113 - Clicking on 'facebook image link'
+2020-02-28 13:02:905 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:929 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:935 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'https://www.facebook.com/groups/525066904174158/'
+2020-02-28 13:02:936 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:944 INFO  TestBase:105 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Finished============
+2020-02-28 13:02:945 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:897 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:938 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:571 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:583 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:609 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:854 INFO  TestBase:88 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Started============
+2020-02-28 13:02:872 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:878 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:884 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:92 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:123 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:287 INFO  Footer:113 - Clicking on 'facebook image link'
+2020-02-28 13:02:335 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:343 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:344 INFO  WindowHelper:22 -  WindowHelper Class Object Created
+2020-02-28 13:02:356 INFO  WindowHelper:66 - switching to1window
+2020-02-28 13:02:382 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.facebook.com/groups/525066904174158/' with 'https://www.facebook.com/groups/525066904174158/'
+2020-02-28 13:02:385 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 13:02:388 INFO  TestBase:105 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Finished============
+2020-02-28 13:02:388 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:127 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:169 INFO  TestBase:124 - ============Ending the suite execution============
+2020-02-28 13:02:644 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-02-28 13:02:655 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-02-28 13:02:678 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:747 INFO  TestBase:88 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Started============
+2020-02-28 13:02:753 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:763 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:768 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:624 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:670 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:856 INFO  Footer:113 - Clicking on 'facebook image link'
+2020-02-28 13:02:875 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:885 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:887 INFO  WindowHelper:22 -  WindowHelper Class Object Created
+2020-02-28 13:02:901 INFO  WindowHelper:66 - switching to window = 1
+2020-02-28 13:02:933 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.facebook.com/groups/525066904174158/' with 'https://www.facebook.com/groups/525066904174158/'
+2020-02-28 13:02:935 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 13:02:939 INFO  TestBase:105 - ============TC_footer_ID_05_verifyFacebookButtonFunctionality============Finished============
+2020-02-28 13:02:940 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:676 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:06 INFO  TestBase:88 - ============TC_footer_ID_06_verifyTwitterButtonFunctionality============Started============
+2020-02-28 13:02:08 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:14 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:23 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:139 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:141 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:334 INFO  Footer:118 - Clicking on 'Twitter image link'
+2020-02-28 13:02:377 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:388 INFO  WindowHelper:22 -  WindowHelper Class Object Created
+2020-02-28 13:02:397 INFO  WindowHelper:66 - switching to window = 1
+2020-02-28 13:02:411 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:439 INFO  VerificationHelper:122 - verifying if text is equals of 'https://twitter.com/seleniumfrmwrk' with 'https://twitter.com/seleniumfrmwrk'
+2020-02-28 13:02:439 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 13:02:442 INFO  TestBase:105 - ============TC_footer_ID_06_verifyTwitterButtonFunctionality============Finished============
+2020-02-28 13:02:442 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:174 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:468 INFO  TestBase:88 - ============TC_footer_ID_07_verifyYoutubeButtonFunctionality============Started============
+2020-02-28 13:02:471 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:482 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:486 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:386 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:388 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:597 INFO  Footer:123 - Clicking on 'Youtube image link'
+2020-02-28 13:02:616 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:629 INFO  WindowHelper:22 -  WindowHelper Class Object Created
+2020-02-28 13:02:644 INFO  WindowHelper:66 - switching to window = 1
+2020-02-28 13:02:657 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:55 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.youtube.com/channel/UCHl59sI3SRjQ-qPcTrgt0tA' with 'https://www.youtube.com/channel/UCHl59sI3SRjQ-qPcTrgt0tA'
+2020-02-28 13:02:56 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-02-28 13:02:58 INFO  TestBase:105 - ============TC_footer_ID_07_verifyYoutubeButtonFunctionality============Finished============
+2020-02-28 13:02:64 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:869 INFO  TestBase:83 - ============Launching the browser============
+2020-02-28 13:02:176 INFO  TestBase:88 - ============TC_footer_ID_08_verifyGooglePlusButtonFunctionality============Started============
+2020-02-28 13:02:178 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-02-28 13:02:188 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-02-28 13:02:193 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-02-28 13:02:690 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-02-28 13:02:692 INFO  Footer:21 - FooterBar Class Object Created
+2020-02-28 13:02:866 INFO  Footer:128 - Clicking on 'Google Plud image link'
+2020-02-28 13:02:891 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-02-28 13:02:903 INFO  WindowHelper:22 -  WindowHelper Class Object Created
+2020-02-28 13:02:909 INFO  WindowHelper:66 - switching to window = 1
+2020-02-28 13:02:922 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-02-28 13:02:939 INFO  VerificationHelper:122 - verifying if text is equals of 'https://accounts.google.com/signin/v2/identifier?passive=1209600&osid=1&continue=https%3A%2F%2Fplus.google.com%2F111979135243110831526%2Fposts&followup=https%3A%2F%2Fplus.google.com%2F111979135243110831526%2Fposts&flowName=GlifWebSignIn&flowEntry=ServiceLogin' with 'https://plus.google.com/111979135243110831526/posts'
+2020-02-28 13:02:939 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-02-28 13:02:946 INFO  TestBase:105 - ============TC_footer_ID_08_verifyGooglePlusButtonFunctionality============Finished============
+2020-02-28 13:02:946 INFO  TestBase:110 - ============Closing the browser============
+2020-02-28 13:02:774 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-02-28 13:02:823 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 12:03:240 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 12:03:253 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 12:03:275 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:613 INFO  TestBase:88 - ============TC_footer_ID_09_verifyWomenLinkFunctionality============Started============
+2020-03-01 12:03:628 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:641 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:646 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:327 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:383 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:748 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:776 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:797 INFO  Page_women:23 - Page_women Class Object Created
+2020-03-01 12:03:799 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:170 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:204 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:289 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Women'
+2020-03-01 12:03:298 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:303 INFO  TestBase:105 - ============TC_footer_ID_09_verifyWomenLinkFunctionality============Finished============
+2020-03-01 12:03:304 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:27 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:345 INFO  TestBase:88 - ============TC_footer_ID_10_verifySpecialsLinkFunctionality============Started============
+2020-03-01 12:03:350 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:360 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:364 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:383 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:386 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:532 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:552 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:563 INFO  Page_pricesDrop:24 - Page_pricesDrop Class Object Created
+2020-03-01 12:03:564 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:620 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:667 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:716 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Price drop'
+2020-03-01 12:03:716 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:728 INFO  TestBase:105 - ============TC_footer_ID_10_verifySpecialsLinkFunctionality============Finished============
+2020-03-01 12:03:729 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:448 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:749 INFO  TestBase:88 - ============TC_footer_ID_11_verifyNewProductsLinkFunctionality============Started============
+2020-03-01 12:03:757 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:762 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:766 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:233 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:235 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:389 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:427 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:435 INFO  Page_newProducts:21 - Page_newProducts Class Object Created
+2020-03-01 12:03:436 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:508 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:582 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:625 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'New products'
+2020-03-01 12:03:627 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:632 INFO  TestBase:105 - ============TC_footer_ID_11_verifyNewProductsLinkFunctionality============Finished============
+2020-03-01 12:03:632 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:357 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:678 INFO  TestBase:88 - ============TC_footer_ID_12_verifyBestSellersLinkFunctionality============Started============
+2020-03-01 12:03:680 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:685 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:693 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:793 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:795 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:88 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:130 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:136 INFO  Page_bestSales:23 - Page_bestSales Class Object Created
+2020-03-01 12:03:137 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:35 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:66 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:112 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Best sellers'
+2020-03-01 12:03:112 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:120 INFO  TestBase:105 - ============TC_footer_ID_12_verifyBestSellersLinkFunctionality============Finished============
+2020-03-01 12:03:121 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:845 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:148 INFO  TestBase:88 - ============TC_footer_ID_13_verifyOurStoresLinkFunctionality============Started============
+2020-03-01 12:03:150 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:160 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:164 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:567 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:568 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:611 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:653 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:660 INFO  Page_stores:23 - Page_stores Class Object Created
+2020-03-01 12:03:661 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:609 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:643 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:870 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Our store(s)!'
+2020-03-01 12:03:870 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:873 INFO  TestBase:105 - ============TC_footer_ID_13_verifyOurStoresLinkFunctionality============Finished============
+2020-03-01 12:03:873 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:620 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:929 INFO  TestBase:88 - ============TC_footer_ID_14_verifyContactusLinkFunctionality============Started============
+2020-03-01 12:03:930 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:933 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:940 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:386 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:388 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:293 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:337 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:350 INFO  Page_contact:22 - Page_contact Class Object Created
+2020-03-01 12:03:351 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:395 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:428 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:490 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Contact'
+2020-03-01 12:03:490 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:499 INFO  TestBase:105 - ============TC_footer_ID_14_verifyContactusLinkFunctionality============Finished============
+2020-03-01 12:03:500 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:236 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:497 INFO  TestBase:88 - ============TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality============Started============
+2020-03-01 12:03:498 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:503 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:513 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:203 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:205 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:385 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:428 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:434 INFO  Page_termsAndConditionsOfUse:21 - Page_termsAndConditionsOfUse Class Object Created
+2020-03-01 12:03:435 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:507 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:543 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:597 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Terms and conditions of use'
+2020-03-01 12:03:597 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:600 INFO  TestBase:105 - ============TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality============Finished============
+2020-03-01 12:03:600 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:345 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:632 INFO  TestBase:88 - ============TC_footer_ID_16_verifyAboutUsLinkFunctionality============Started============
+2020-03-01 12:03:633 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:641 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:648 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:193 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:194 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:132 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:173 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:178 INFO  Page_aboutUs:21 - Page_aboutUs Class Object Created
+2020-03-01 12:03:179 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:488 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:514 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:563 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'About us'
+2020-03-01 12:03:563 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:566 INFO  TestBase:105 - ============TC_footer_ID_16_verifyAboutUsLinkFunctionality============Finished============
+2020-03-01 12:03:566 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:306 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:629 INFO  TestBase:88 - ============TC_footer_ID_17_verifySitemapLinkFunctionality============Started============
+2020-03-01 12:03:630 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:634 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:643 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:777 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:778 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:993 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:17 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:24 INFO  Page_sitemap:21 - Page_sitemap Class Object Created
+2020-03-01 12:03:25 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:936 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:159 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:208 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Sitemap'
+2020-03-01 12:03:208 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 12:03:210 INFO  TestBase:105 - ============TC_footer_ID_17_verifySitemapLinkFunctionality============Finished============
+2020-03-01 12:03:210 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:960 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 12:03:999 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 12:03:867 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 12:03:878 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 12:03:898 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:935 INFO  TestBase:88 - ============TC_footer_ID_09_verifyWomenLinkFunctionality============Started============
+2020-03-01 12:03:945 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:955 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:959 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:290 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:326 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:693 INFO  Footer:133 - Clicking on 'women' link
+2020-03-01 12:03:743 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_category=3&controller=category
+2020-03-01 12:03:757 INFO  Page_women:23 - Page_women Class Object Created
+2020-03-01 12:03:757 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:820 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:849 INFO  VerificationHelper:89 - element text is => Women
+2020-03-01 12:03:914 INFO  VerificationHelper:135 - verifying that='> Women' contains text= 'Women'
+2020-03-01 12:03:924 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:930 INFO  TestBase:105 - ============TC_footer_ID_09_verifyWomenLinkFunctionality============Finished============
+2020-03-01 12:03:930 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:657 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:990 INFO  TestBase:88 - ============TC_footer_ID_10_verifySpecialsLinkFunctionality============Started============
+2020-03-01 12:03:992 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:04 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:16 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:770 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:773 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:513 INFO  Footer:138 - Clicking on 'specials'
+2020-03-01 12:03:604 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=prices-drop
+2020-03-01 12:03:618 INFO  Page_pricesDrop:24 - Page_pricesDrop Class Object Created
+2020-03-01 12:03:618 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:942 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:980 INFO  VerificationHelper:89 - element text is => Price drop
+2020-03-01 12:03:29 INFO  VerificationHelper:135 - verifying that='> Price drop' contains text= 'Price drop'
+2020-03-01 12:03:30 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:32 INFO  TestBase:105 - ============TC_footer_ID_10_verifySpecialsLinkFunctionality============Finished============
+2020-03-01 12:03:33 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:767 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:141 INFO  TestBase:88 - ============TC_footer_ID_11_verifyNewProductsLinkFunctionality============Started============
+2020-03-01 12:03:145 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:159 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:165 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:49 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:50 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:775 INFO  Footer:143 - Clicking on 'new products'
+2020-03-01 12:03:863 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=new-products
+2020-03-01 12:03:872 INFO  Page_newProducts:21 - Page_newProducts Class Object Created
+2020-03-01 12:03:872 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:145 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:183 INFO  VerificationHelper:89 - element text is => New products
+2020-03-01 12:03:225 INFO  VerificationHelper:135 - verifying that='> New products' contains text= 'New products'
+2020-03-01 12:03:228 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:230 INFO  TestBase:105 - ============TC_footer_ID_11_verifyNewProductsLinkFunctionality============Finished============
+2020-03-01 12:03:230 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:971 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:270 INFO  TestBase:88 - ============TC_footer_ID_12_verifyBestSellersLinkFunctionality============Started============
+2020-03-01 12:03:272 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:276 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:282 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:900 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:903 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:251 INFO  Footer:148 - Clicking on 'best sellers
+2020-03-01 12:03:315 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=best-sales
+2020-03-01 12:03:323 INFO  Page_bestSales:23 - Page_bestSales Class Object Created
+2020-03-01 12:03:328 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:664 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:698 INFO  VerificationHelper:89 - element text is => Best sellers
+2020-03-01 12:03:738 INFO  VerificationHelper:135 - verifying that='> Best sellers' contains text= 'Best sellers'
+2020-03-01 12:03:739 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:743 INFO  TestBase:105 - ============TC_footer_ID_12_verifyBestSellersLinkFunctionality============Finished============
+2020-03-01 12:03:744 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:467 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:730 INFO  TestBase:88 - ============TC_footer_ID_13_verifyOurStoresLinkFunctionality============Started============
+2020-03-01 12:03:738 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:743 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:758 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:543 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:546 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:929 INFO  Footer:153 - Clicking on 'Our Stores' link
+2020-03-01 12:03:957 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=stores
+2020-03-01 12:03:969 INFO  Page_stores:23 - Page_stores Class Object Created
+2020-03-01 12:03:969 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:578 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:671 INFO  VerificationHelper:89 - element text is => Our store(s)!
+2020-03-01 12:03:817 INFO  VerificationHelper:135 - verifying that='> Our store(s)!' contains text= 'Our store(s)!'
+2020-03-01 12:03:817 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:822 INFO  TestBase:105 - ============TC_footer_ID_13_verifyOurStoresLinkFunctionality============Finished============
+2020-03-01 12:03:822 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:558 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:863 INFO  TestBase:88 - ============TC_footer_ID_14_verifyContactusLinkFunctionality============Started============
+2020-03-01 12:03:874 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:879 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:884 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:685 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:686 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:310 INFO  Footer:158 - Clicking on 'Contact Us' link
+2020-03-01 12:03:355 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=contact
+2020-03-01 12:03:362 INFO  Page_contact:22 - Page_contact Class Object Created
+2020-03-01 12:03:363 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:874 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:918 INFO  VerificationHelper:89 - element text is => Contact
+2020-03-01 12:03:967 INFO  VerificationHelper:135 - verifying that='> Contact' contains text= 'Contact'
+2020-03-01 12:03:967 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:970 INFO  TestBase:105 - ============TC_footer_ID_14_verifyContactusLinkFunctionality============Finished============
+2020-03-01 12:03:970 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:697 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:989 INFO  TestBase:88 - ============TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality============Started============
+2020-03-01 12:03:993 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:997 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:999 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:896 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:898 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:543 INFO  Footer:163 - Clicking on 'Terms and conditions of use link
+2020-03-01 12:03:599 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_cms=3&controller=cms
+2020-03-01 12:03:607 INFO  Page_termsAndConditionsOfUse:21 - Page_termsAndConditionsOfUse Class Object Created
+2020-03-01 12:03:608 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:74 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:104 INFO  VerificationHelper:89 - element text is => Terms and conditions of use
+2020-03-01 12:03:151 INFO  VerificationHelper:135 - verifying that='> Terms and conditions of use' contains text= 'Terms and conditions of use'
+2020-03-01 12:03:151 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:152 INFO  TestBase:105 - ============TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality============Finished============
+2020-03-01 12:03:152 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:877 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:192 INFO  TestBase:88 - ============TC_footer_ID_16_verifyAboutUsLinkFunctionality============Started============
+2020-03-01 12:03:197 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:214 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:228 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:901 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:903 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:537 INFO  Footer:168 - Clicking on 'About Us' link 
+2020-03-01 12:03:579 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_cms=4&controller=cms
+2020-03-01 12:03:589 INFO  Page_aboutUs:21 - Page_aboutUs Class Object Created
+2020-03-01 12:03:590 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:93 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:125 INFO  VerificationHelper:89 - element text is => About us
+2020-03-01 12:03:169 INFO  VerificationHelper:135 - verifying that='> About us' contains text= 'About us'
+2020-03-01 12:03:170 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:171 INFO  TestBase:105 - ============TC_footer_ID_16_verifyAboutUsLinkFunctionality============Finished============
+2020-03-01 12:03:172 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:885 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:185 INFO  TestBase:88 - ============TC_footer_ID_17_verifySitemapLinkFunctionality============Started============
+2020-03-01 12:03:191 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:202 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:208 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:153 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:154 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:833 INFO  Footer:173 - Clicking on 'sitemap' link
+2020-03-01 12:03:874 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=sitemap
+2020-03-01 12:03:881 INFO  Page_sitemap:21 - Page_sitemap Class Object Created
+2020-03-01 12:03:881 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:266 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:293 INFO  VerificationHelper:89 - element text is => Sitemap
+2020-03-01 12:03:340 INFO  VerificationHelper:135 - verifying that='> Sitemap' contains text= 'Sitemap'
+2020-03-01 12:03:341 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:342 INFO  TestBase:105 - ============TC_footer_ID_17_verifySitemapLinkFunctionality============Finished============
+2020-03-01 12:03:342 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:36 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 12:03:60 INFO  TestBase:124 - ============Ending the suite execution============

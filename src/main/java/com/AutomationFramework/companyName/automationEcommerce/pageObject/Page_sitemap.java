@@ -24,6 +24,9 @@ public class Page_sitemap {
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a")
 	public WebElement img_homeIcon;
 	
+	@FindBy(xpath = "//*[@id='columns']/div[1]")
+	public WebElement txt_PageInfoBar;
+	
 	@FindBy(xpath = "//*[@id='columns']/div[1]/span[2]")
 	public WebElement lbl_sitemap1;
 	

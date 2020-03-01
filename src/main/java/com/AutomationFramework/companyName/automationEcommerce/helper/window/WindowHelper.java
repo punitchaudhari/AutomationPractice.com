@@ -63,8 +63,8 @@ public class WindowHelper {
 		int i = 0;
 		for (String window : windows) {
 			if (index == i) {
-				log.info("switching to" + index + "window");
-				TestBase.test.log(Status.INFO,"switching to" + index + "window");
+				log.info("switching to window = " + index);
+				TestBase.test.log(Status.INFO,"switching to window = " + index);
 				driver.switchTo().window(window);
 			} else {
 				i++;
