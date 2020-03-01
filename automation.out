@@ -2022,3 +2022,404 @@
 2020-03-01 13:03:213 INFO  TestBase:110 - ============Closing the browser============
 2020-03-01 13:03:862 INFO  TestBase:70 - ============Ending the TESTS execution============
 2020-03-01 13:03:892 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 13:03:45 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 13:03:57 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 13:03:79 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:95 INFO  TestBase:88 - ============ID_verifyLoginFunctionality============Started============
+2020-03-01 13:03:103 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:115 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:118 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:605 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:640 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:694 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:708 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:710 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:253 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:260 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:443 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:557 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:110 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:115 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:127 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:141 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:200 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-03-01 13:03:201 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:205 INFO  TestBase:105 - ============ID_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:205 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:904 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 13:03:920 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 13:03:676 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 13:03:685 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 13:03:706 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:737 INFO  TestBase:88 - ============TC_authentication_ID_07_verifyLoginFunctionality============Started============
+2020-03-01 13:03:743 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:749 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:754 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:440 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:472 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:513 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:521 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:522 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:22 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:31 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:257 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:360 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:927 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:930 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:936 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:958 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:991 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-03-01 13:03:992 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:995 INFO  TestBase:105 - ============TC_authentication_ID_07_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:995 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:688 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:972 INFO  TestBase:88 - ============TC_authentication_ID_08_verifyLoginFunctionality============Started============
+2020-03-01 13:03:974 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:980 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:988 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:454 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:518 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:568 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:582 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:582 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:285 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:286 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:446 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:495 INFO  TestBase:105 - ============TC_authentication_ID_08_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:496 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:188 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:434 INFO  TestBase:88 - ============TC_authentication_ID_09_verifyLoginFunctionality============Started============
+2020-03-01 13:03:436 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:439 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:443 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:511 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:567 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:605 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:612 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:612 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:104 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:108 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:136 INFO  TestBase:105 - ============TC_authentication_ID_09_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:137 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:860 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:119 INFO  TestBase:88 - ============TC_authentication_ID_10_verifyLoginFunctionality============Started============
+2020-03-01 13:03:121 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:124 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:129 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:476 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:872 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:902 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:912 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:912 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:423 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:426 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:497 INFO  TestBase:105 - ============TC_authentication_ID_10_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:498 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:221 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 13:03:248 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 13:03:813 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 13:03:822 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 13:03:842 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:856 INFO  TestBase:88 - ============TC_authentication_ID_07_verifyLoginFunctionality============Started============
+2020-03-01 13:03:871 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:888 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:893 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:94 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:247 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:296 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:306 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:310 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:780 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:785 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:31 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:141 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:862 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:865 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:872 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:893 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:925 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-03-01 13:03:926 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:929 INFO  TestBase:105 - ============TC_authentication_ID_07_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:930 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:646 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:926 INFO  TestBase:88 - ============TC_authentication_ID_08_verifyLoginFunctionality============Started============
+2020-03-01 13:03:927 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:936 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:945 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:784 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:830 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:881 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:888 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:888 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:338 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:339 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:566 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:673 INFO  Page_authentication:94 - Typed = 'heroic' password on already registered section password textbox field 
+2020-03-01 13:03:578 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:580 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:585 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication
+2020-03-01 13:03:628 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:628 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:631 INFO  TestBase:105 - ============TC_authentication_ID_08_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:631 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:309 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:587 INFO  TestBase:88 - ============TC_authentication_ID_09_verifyLoginFunctionality============Started============
+2020-03-01 13:03:588 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:592 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:598 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:614 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:877 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:947 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:953 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:953 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:402 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:403 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:533 INFO  Page_authentication:87 - Typed = 'hero' email on already registered section email textbox field 
+2020-03-01 13:03:690 INFO  Page_authentication:94 - Typed = 'heroic' password on already registered section password textbox field 
+2020-03-01 13:03:845 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:847 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:853 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication
+2020-03-01 13:03:896 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:897 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:898 INFO  TestBase:105 - ============TC_authentication_ID_09_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:899 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:588 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:869 INFO  TestBase:88 - ============TC_authentication_ID_10_verifyLoginFunctionality============Started============
+2020-03-01 13:03:870 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:876 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:880 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:539 INFO  Header:22 - HeaderBar Class Object Created
+2020-03-01 13:03:612 INFO  Header:59 - Clicking on 'Sign In'
+2020-03-01 13:03:640 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:647 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:648 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:115 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:116 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:253 INFO  Page_authentication:87 - Typed = 'hero' email on already registered section email textbox field 
+2020-03-01 13:03:394 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:403 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:406 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:416 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication
+2020-03-01 13:03:465 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:465 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 13:03:468 INFO  TestBase:105 - ============TC_authentication_ID_10_verifyLoginFunctionality============Finished============
+2020-03-01 13:03:469 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:227 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 13:03:246 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 13:03:571 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 13:03:581 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 13:03:603 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:691 INFO  TestBase:88 - ============TC_authentication_ID_01_verifyHomeIconbuttonFunctionality============Started============
+2020-03-01 13:03:697 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:704 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:708 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:57 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:164 INFO  Page_authentication:65 - Clicked on 'Home icon' button
+2020-03-01 13:03:175 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-01 13:03:177 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-01 13:03:180 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:189 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'http://automationpractice.com/index.php'
+2020-03-01 13:03:194 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 13:03:198 INFO  TestBase:105 - ============TC_authentication_ID_01_verifyHomeIconbuttonFunctionality============Finished============
+2020-03-01 13:03:199 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:854 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 13:03:870 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 14:03:623 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 14:03:635 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 14:03:660 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 14:03:484 INFO  TestBase:88 - ============TC_authentication_ID_02_verifyMainSectionTitles============Started============
+2020-03-01 14:03:503 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 14:03:512 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 14:03:519 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 14:03:936 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 14:03:937 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 14:03:35 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 14:03:63 INFO  VerificationHelper:89 - element text is =AUTHENTICATION
+2020-03-01 14:03:102 INFO  VerificationHelper:122 - verifying if text is equals of 'AUTHENTICATION' with 'Authentication'
+2020-03-01 14:03:103 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 14:03:117 INFO  TestBase:105 - ============TC_authentication_ID_02_verifyMainSectionTitles============Finished============
+2020-03-01 14:03:118 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 14:03:68 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 14:03:102 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 14:03:340 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 14:03:352 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 14:03:372 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 14:03:433 INFO  TestBase:88 - ============TC_authentication_ID_02_verifyMainSectionTitles============Started============
+2020-03-01 14:03:450 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 14:03:466 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 14:03:472 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 14:03:857 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 14:03:858 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 14:03:938 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 14:03:962 INFO  VerificationHelper:89 - element text is =AUTHENTICATION
+2020-03-01 14:03:01 INFO  VerificationHelper:122 - verifying if text is equals of 'AUTHENTICATION' with 'AUTHENTICATION'
+2020-03-01 14:03:05 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 14:03:38 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 14:03:62 INFO  VerificationHelper:89 - element text is =CREATE AN ACCOUNT
+2020-03-01 14:03:100 INFO  VerificationHelper:122 - verifying if text is equals of 'CREATE AN ACCOUNT' with 'CREATE AN ACCOUNT'
+2020-03-01 14:03:103 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 14:03:136 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 14:03:158 INFO  VerificationHelper:89 - element text is =ALREADY REGISTERED?
+2020-03-01 14:03:189 INFO  VerificationHelper:122 - verifying if text is equals of 'ALREADY REGISTERED?' with 'ALREADY REGISTERED?'
+2020-03-01 14:03:190 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-01 14:03:193 INFO  TestBase:105 - ============TC_authentication_ID_02_verifyMainSectionTitles============Finished============
+2020-03-01 14:03:193 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 14:03:881 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 14:03:901 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:33 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:42 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:66 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:125 INFO  TestBase:88 - ============TC_authentication_ID_03_verifyLabel============Started============
+2020-03-01 15:03:140 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:157 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:168 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:667 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 15:03:669 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 15:03:754 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 15:03:781 INFO  VerificationHelper:89 - element text is =Please enter your email address to create an account.
+2020-03-01 15:03:817 INFO  VerificationHelper:122 - verifying if text is equals of 'Please enter your email address to create an account.' with 'Please enter your email address to create an account.'
+2020-03-01 15:03:819 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 15:03:823 INFO  TestBase:105 - ============TC_authentication_ID_03_verifyLabel============Finished============
+2020-03-01 15:03:824 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:508 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:536 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:76 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:86 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:106 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:163 INFO  TestBase:88 - ============TC_authentication_ID_04_verifyErrorMessage============Started============
+2020-03-01 15:03:175 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:188 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:196 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:928 INFO  TestBase:105 - ============TC_authentication_ID_04_verifyErrorMessage============Finished============
+2020-03-01 15:03:929 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:661 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:683 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:233 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:243 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:271 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:388 INFO  TestBase:88 - ============TC_authentication_ID_04_verifyErrorMessage============Started============
+2020-03-01 15:03:402 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:407 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:414 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:129 INFO  TestBase:105 - ============TC_authentication_ID_04_verifyErrorMessage============Finished============
+2020-03-01 15:03:129 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:825 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:847 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:868 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:879 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:898 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:936 INFO  TestBase:88 - ============TC_authentication_ID_04_verifyErrorMessage============Started============
+2020-03-01 15:03:946 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:958 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:963 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:650 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 15:03:761 INFO  Page_authentication:83 - Clicked on 'Create An Account button' 
+2020-03-01 15:03:766 INFO  Page_accountCreation:22 - Page_accountCreation Class Object Created
+2020-03-01 15:03:767 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 15:03:40 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 15:03:66 INFO  VerificationHelper:89 - element text is =Invalid email address.
+2020-03-01 15:03:103 INFO  VerificationHelper:122 - verifying if text is equals of 'Invalid email address.' with 'Invalid email address.'
+2020-03-01 15:03:106 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 15:03:109 INFO  TestBase:105 - ============TC_authentication_ID_04_verifyErrorMessage============Finished============
+2020-03-01 15:03:110 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:839 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:857 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:574 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:584 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:612 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:682 INFO  TestBase:88 - ============TC_authentication_ID_04_verifyErrorMessage============Started============
+2020-03-01 15:03:691 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:701 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:708 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:293 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 15:03:294 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 15:03:383 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 15:03:407 INFO  VerificationHelper:89 - element text is =Invalid email address.
+2020-03-01 15:03:443 INFO  VerificationHelper:122 - verifying if text is equals of 'Invalid email address.' with 'Invalid email address.'
+2020-03-01 15:03:446 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 15:03:452 INFO  TestBase:105 - ============TC_authentication_ID_04_verifyErrorMessage============Finished============
+2020-03-01 15:03:452 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:161 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:181 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:433 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:444 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:472 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:548 INFO  TestBase:88 - ============TC_authentication_ID_05_verifyForgotYourPassswordLinkFunctionality============Started============
+2020-03-01 15:03:570 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:594 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:598 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:654 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 15:03:825 INFO  Page_authentication:104 - Clicked on 'Forgot your password 'link 
+2020-03-01 15:03:829 INFO  Page_password:21 - Page_password Class Object Created
+2020-03-01 15:03:830 INFO  Page_password:21 - Page_password Class Object Created
+2020-03-01 15:03:831 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 15:03:913 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 15:03:941 INFO  VerificationHelper:89 - element text is => Authentication>Forgot your password
+2020-03-01 15:03:978 INFO  VerificationHelper:122 - verifying if text is equals of '> Authentication>Forgot your password' with 'Forgot your password'
+2020-03-01 15:03:979 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 15:03:993 INFO  TestBase:105 - ============TC_authentication_ID_05_verifyForgotYourPassswordLinkFunctionality============Finished============
+2020-03-01 15:03:994 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:681 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:705 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:902 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:915 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:947 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:68 INFO  TestBase:88 - ============TC_authentication_ID_05_verifyForgotYourPassswordLinkFunctionality============Started============
+2020-03-01 15:03:79 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:88 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:91 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:377 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 15:03:607 INFO  Page_authentication:104 - Clicked on 'Forgot your password 'link 
+2020-03-01 15:03:611 INFO  Page_password:21 - Page_password Class Object Created
+2020-03-01 15:03:612 INFO  Page_password:21 - Page_password Class Object Created
+2020-03-01 15:03:613 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 15:03:690 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 15:03:723 INFO  VerificationHelper:89 - element text is => Authentication>Forgot your password
+2020-03-01 15:03:765 INFO  VerificationHelper:135 - verifying that='> Authentication>Forgot your password' contains text= 'Forgot your password'
+2020-03-01 15:03:768 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 15:03:771 INFO  TestBase:105 - ============TC_authentication_ID_05_verifyForgotYourPassswordLinkFunctionality============Finished============
+2020-03-01 15:03:771 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:585 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:603 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:213 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:226 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:245 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:303 INFO  TestBase:88 - ============TC_authentication_ID_06_verifyErrorMessage============Started============
+2020-03-01 15:03:321 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:335 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:343 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:58 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 15:03:226 INFO  Page_authentication:114 - Clicked on 'Sign in' button 
+2020-03-01 15:03:231 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 15:03:233 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 15:03:319 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 15:03:345 INFO  VerificationHelper:89 - element text is =There is 1 error
+An email address required.
+2020-03-01 15:03:386 INFO  VerificationHelper:122 - verifying if text is equals of 'There is 1 error
+An email address required.' with 'An email address required.'
+2020-03-01 15:03:387 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 15:03:398 INFO  TestBase:105 - ============TC_authentication_ID_06_verifyErrorMessage============Finished============
+2020-03-01 15:03:401 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:101 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:128 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 15:03:814 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 15:03:830 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 15:03:852 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 15:03:928 INFO  TestBase:88 - ============TC_authentication_ID_06_verifyErrorMessage============Started============
+2020-03-01 15:03:941 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 15:03:947 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 15:03:958 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 15:03:879 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 15:03:970 INFO  Page_authentication:114 - Clicked on 'Sign in' button 
+2020-03-01 15:03:976 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 15:03:978 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 15:03:78 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 15:03:116 INFO  VerificationHelper:89 - element text is =There is 1 error
+An email address required.
+2020-03-01 15:03:177 INFO  VerificationHelper:135 - verifying that='There is 1 error
+An email address required.' contains text= 'An email address required.'
+2020-03-01 15:03:181 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 15:03:185 INFO  TestBase:105 - ============TC_authentication_ID_06_verifyErrorMessage============Finished============
+2020-03-01 15:03:187 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 15:03:866 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 15:03:885 INFO  TestBase:124 - ============Ending the suite execution============

@@ -3,17 +3,17 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.footer">
+      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.authentication">
         <methods>
-          <include name="TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
+          <include name="TC_authentication_ID_06_verifyErrorMessage"/>
           <include name="beforeMethod"/>
           <include name="afterSuite"/>
           <include name="afterTest"/>
           <include name="beforeSuite"/>
         </methods>
-      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.footer -->
+      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.authentication -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

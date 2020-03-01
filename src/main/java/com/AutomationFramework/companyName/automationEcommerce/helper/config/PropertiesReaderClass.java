@@ -122,14 +122,14 @@ public class PropertiesReaderClass {
 	public static String getInvalidEmail() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("InvalidEmail");
+		return prop1.getProperty("invalidEmail");
 
 	}
 
 	public static String getInvalidPassword() {
 
 		Properties prop1 = PropertiesReaderClass();
-		return prop1.getProperty("InvalidPassword");
+		return prop1.getProperty("invalidPassword");
 
 	}
 	

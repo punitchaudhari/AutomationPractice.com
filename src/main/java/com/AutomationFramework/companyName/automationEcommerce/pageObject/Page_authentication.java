@@ -24,42 +24,48 @@ public class Page_authentication {
 	}
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a")
-	WebElement img_homeIcon;
+	public WebElement img_homeIcon;
 	
 	@FindBy(xpath = "//*[@id='columns']/div[1]")
 	public WebElement txt_PageInfoBar;
 
 	@FindBy(xpath = "//*[@id='center_column']/h1")
-	WebElement lbl_authentication;
+	public WebElement lbl_authentication;
 	// CREATE AN ACCOUNT SECTION
 	@FindBy(xpath = "//*[@id='create-account_form']/h3")
-	WebElement lbl_createAnAccount;
+	public WebElement lbl_createAnAccount;
 
 	@FindBy(xpath = "//*[@id='create-account_form']/div/p")
-	WebElement lbl_pleaseEnterYourEmailAddress;
+	public WebElement lbl_pleaseEnterYourEmailAddress;
 
 	@FindBy(xpath = "//*[@id='email_create']")
-	WebElement txt_emailAddress1;
+	public WebElement txt_emailAddress1;
 
 	@FindBy(xpath = "//*[@id='SubmitCreate']")
-	WebElement btn_createAnAccount;
+	public WebElement btn_createAnAccount;
 
 	// ALREADY REGISTERED SECTION
 	@FindBy(xpath = "//*[@id='login_form']/h3")
-	WebElement lbl_alreadyRegistered;
+	public 	WebElement lbl_alreadyRegistered;
 
 	@FindBy(xpath = "//*[@id='email']")
-	WebElement txt_emailAddress2;
+	public 	WebElement txt_emailAddress2;
 
 	@FindBy(xpath = "//*[@id='passwd']")
-	WebElement txt_password;
+	public WebElement txt_password;
 
 	@FindBy(xpath = "//*[@id='login_form']/div/p[1]/a")
-	WebElement link_forgotYourPassword;
+	public 	WebElement link_forgotYourPassword;
 
 	@FindBy(xpath = "//*[@id='SubmitLogin']")
-	WebElement btn_signIn;
+	public 	WebElement btn_signIn;
 
+	@FindBy(xpath = "//*[@id='create_account_error']/ol/li")
+	public 	WebElement lbl_Invalid_email_address;
+	
+	@FindBy(xpath = "//*[@id='center_column']/div[1]")
+	public 	WebElement lbl_An_email_address_required;
+	
 	public Page_index clkHomeIcon() {
 		img_homeIcon.click();
 		log.info("Clicked on 'Home icon' button");
