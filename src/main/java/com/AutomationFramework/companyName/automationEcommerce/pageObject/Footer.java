@@ -67,6 +67,9 @@ public class Footer {
 	@FindBy(xpath="//*[@id='block_various_links_footer']/ul/li[8]/a")
 	public WebElement link_sitemap;
 	
+	@FindBy(xpath="//*[@id='footer']/div/section[5]/h4/a")
+	public WebElement link_myAccount;
+	
 	@FindBy(xpath="//*[@id='footer']/div/section[5]/div/ul/li[1]/a")
 	public WebElement link_myOrders;
 	
@@ -172,6 +175,11 @@ public class Footer {
 		link_sitemap.click();
 		log.info("Clicking on 'sitemap' link");
 		TestBase.test.log(Status.INFO,"Clicking on 'sitemap' link" );
+	}
+	public void clkMyAccount(){
+		link_myAccount.click();
+		log.info("Clicking on 'My Account' link");
+		TestBase.test.log(Status.INFO, "Clicking on 'My Account' link");
 	}
 	public void clkMyOrders(){
 		link_myOrders.click();
