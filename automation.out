@@ -1743,3 +1743,282 @@
 2020-03-01 12:03:342 INFO  TestBase:110 - ============Closing the browser============
 2020-03-01 12:03:36 INFO  TestBase:70 - ============Ending the TESTS execution============
 2020-03-01 12:03:60 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 12:03:539 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 12:03:552 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 12:03:577 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:583 INFO  TestBase:88 - ============TC_footer_ID_18_verifyMyAccountLinkFunctionality============Started============
+2020-03-01 12:03:599 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:606 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:617 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:318 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:357 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:414 INFO  Footer:181 - Clicking on 'My Account' link
+2020-03-01 12:03:462 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 12:03:477 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 12:03:478 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:36 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:66 INFO  VerificationHelper:89 - element text is => Authentication
+2020-03-01 12:03:125 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 12:03:130 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:137 INFO  TestBase:105 - ============TC_footer_ID_18_verifyMyAccountLinkFunctionality============Finished============
+2020-03-01 12:03:140 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:879 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:174 INFO  TestBase:88 - ============TC_footer_ID_19_verifyMyOrdersLinkFunctionality============Started============
+2020-03-01 12:03:185 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:190 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:198 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:934 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:937 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:239 INFO  Footer:186 - Clicking on 'My orders' link
+2020-03-01 12:03:306 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=history
+2020-03-01 12:03:326 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 12:03:326 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:19 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:53 INFO  VerificationHelper:89 - element text is => Authentication
+2020-03-01 12:03:97 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 12:03:98 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:102 INFO  TestBase:105 - ============TC_footer_ID_19_verifyMyOrdersLinkFunctionality============Finished============
+2020-03-01 12:03:103 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:881 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:197 INFO  TestBase:88 - ============TC_footer_ID_20_verifyMyCreditSlipsLinkFunctionality============Started============
+2020-03-01 12:03:199 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:206 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:215 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:725 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:727 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:893 INFO  Footer:191 - Clicking on 'My credit slips' link
+2020-03-01 12:03:944 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=order-slip
+2020-03-01 12:03:951 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 12:03:951 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:521 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:584 INFO  VerificationHelper:89 - element text is => Authentication
+2020-03-01 12:03:632 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 12:03:633 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:634 INFO  TestBase:105 - ============TC_footer_ID_20_verifyMyCreditSlipsLinkFunctionality============Finished============
+2020-03-01 12:03:635 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:327 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:580 INFO  TestBase:88 - ============TC_footer_ID_21_verifyMyAddressesLinkFunctionality============Started============
+2020-03-01 12:03:582 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:587 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:595 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:462 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:464 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:532 INFO  Footer:196 - Clicking on 'My addresses' link
+2020-03-01 12:03:582 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=addresses
+2020-03-01 12:03:588 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 12:03:588 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:143 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:177 INFO  VerificationHelper:89 - element text is => Authentication
+2020-03-01 12:03:228 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 12:03:228 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:230 INFO  TestBase:105 - ============TC_footer_ID_21_verifyMyAddressesLinkFunctionality============Finished============
+2020-03-01 12:03:231 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:942 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:234 INFO  TestBase:88 - ============TC_footer_ID_22_verifyMyPersonalInfoLinkFunctionality============Started============
+2020-03-01 12:03:235 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:240 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:257 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:524 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-01 12:03:526 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:637 INFO  Footer:201 - Clicking on 'My personal info' link
+2020-03-01 12:03:678 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=identity
+2020-03-01 12:03:683 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 12:03:684 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:243 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:280 INFO  VerificationHelper:89 - element text is => Authentication
+2020-03-01 12:03:327 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 12:03:328 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:330 INFO  TestBase:105 - ============TC_footer_ID_22_verifyMyPersonalInfoLinkFunctionality============Finished============
+2020-03-01 12:03:330 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:51 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 12:03:72 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 12:03:04 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 12:03:14 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 12:03:37 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:53 INFO  TestBase:88 - ============TC_footer_ID_23_verifyMyAccountLinkFunctionality============Started============
+2020-03-01 12:03:64 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:72 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:76 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:403 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 12:03:413 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 12:03:443 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 12:03:620 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 12:03:735 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 12:03:412 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 12:03:419 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 12:03:439 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 12:03:451 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:542 INFO  Footer:181 - Clicking on 'My Account' link
+2020-03-01 12:03:544 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 12:03:549 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:620 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:651 INFO  VerificationHelper:89 - element text is => My account
+2020-03-01 12:03:695 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-03-01 12:03:697 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:700 INFO  TestBase:105 - ============TC_footer_ID_23_verifyMyAccountLinkFunctionality============Finished============
+2020-03-01 12:03:701 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:402 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 12:03:423 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 12:03:828 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 12:03:839 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 12:03:863 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 12:03:861 INFO  TestBase:88 - ============TC_footer_ID_23_verifyMyAccountLinkFunctionality============Started============
+2020-03-01 12:03:875 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 12:03:885 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 12:03:899 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 12:03:197 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 12:03:209 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 12:03:241 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 12:03:405 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 12:03:533 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 12:03:92 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 12:03:95 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 12:03:118 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 12:03:135 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 12:03:266 INFO  Footer:181 - Clicking on 'My Account' link
+2020-03-01 12:03:270 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 12:03:273 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 12:03:343 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 12:03:374 INFO  VerificationHelper:89 - element text is => My account
+2020-03-01 12:03:416 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-03-01 12:03:418 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 12:03:422 INFO  TestBase:105 - ============TC_footer_ID_23_verifyMyAccountLinkFunctionality============Finished============
+2020-03-01 12:03:422 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 12:03:101 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 12:03:124 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-01 13:03:154 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-01 13:03:162 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-01 13:03:188 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:270 INFO  TestBase:88 - ============TC_footer_ID_23_verifyMyAccountLinkFunctionality============Started============
+2020-03-01 13:03:296 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:308 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:313 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:976 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:07 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:187 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:309 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:440 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:443 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:452 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:463 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 13:03:570 INFO  Footer:181 - Clicking on 'My Account' link
+2020-03-01 13:03:572 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:574 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:656 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 13:03:684 INFO  VerificationHelper:89 - element text is => My account
+2020-03-01 13:03:726 INFO  VerificationHelper:135 - verifying that='> My account' contains text= 'My account'
+2020-03-01 13:03:730 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 13:03:735 INFO  TestBase:105 - ============TC_footer_ID_23_verifyMyAccountLinkFunctionality============Finished============
+2020-03-01 13:03:735 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:509 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:818 INFO  TestBase:88 - ============TC_footer_ID_24_verifyMyOrdersLinkFunctionality============Started============
+2020-03-01 13:03:822 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:831 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:836 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:132 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:134 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:430 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:556 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:448 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:449 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:456 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:461 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 13:03:822 INFO  Footer:186 - Clicking on 'My orders' link
+2020-03-01 13:03:860 INFO  Page_history:27 - Page_history Class Object Created
+2020-03-01 13:03:861 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:925 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 13:03:975 INFO  VerificationHelper:89 - element text is => My account > Order history
+2020-03-01 13:03:22 INFO  VerificationHelper:135 - verifying that='> My account > Order history' contains text= 'Order history'
+2020-03-01 13:03:23 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 13:03:25 INFO  TestBase:105 - ============TC_footer_ID_24_verifyMyOrdersLinkFunctionality============Finished============
+2020-03-01 13:03:26 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:765 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:102 INFO  TestBase:88 - ============TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality============Started============
+2020-03-01 13:03:105 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:118 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:123 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:934 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:935 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:142 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:291 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:194 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:195 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:204 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:210 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 13:03:595 INFO  Footer:191 - Clicking on 'My credit slips' link
+2020-03-01 13:03:597 INFO  Page_orderSlip:21 - Page_orderSlip Class Object Created
+2020-03-01 13:03:597 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:674 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 13:03:704 INFO  VerificationHelper:89 - element text is => My account>Credit slips
+2020-03-01 13:03:752 INFO  VerificationHelper:135 - verifying that='> My account>Credit slips' contains text= 'Credit Slips'
+2020-03-01 13:03:753 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-01 13:03:764 INFO  TestBase:105 - ============TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality============Finished============
+2020-03-01 13:03:764 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:444 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:952 INFO  TestBase:88 - ============TC_footer_ID_26_verifyMyAddressesLinkFunctionality============Started============
+2020-03-01 13:03:954 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:967 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:971 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:807 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:808 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:192 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:327 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:31 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:32 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:47 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:70 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 13:03:209 INFO  Footer:196 - Clicking on 'My addresses' link
+2020-03-01 13:03:211 INFO  Page_addresses:23 - Page_addresses Class Object Created
+2020-03-01 13:03:212 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:261 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 13:03:305 INFO  VerificationHelper:89 - element text is => My account>My addresses
+2020-03-01 13:03:341 INFO  VerificationHelper:135 - verifying that='> My account>My addresses' contains text= 'My addresses'
+2020-03-01 13:03:341 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 13:03:343 INFO  TestBase:105 - ============TC_footer_ID_26_verifyMyAddressesLinkFunctionality============Finished============
+2020-03-01 13:03:343 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:05 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:339 INFO  TestBase:88 - ============TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality============Started============
+2020-03-01 13:03:340 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:355 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:372 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:82 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:83 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:629 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:779 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:482 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:485 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:507 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:515 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 13:03:557 INFO  Footer:201 - Clicking on 'My personal info' link
+2020-03-01 13:03:562 INFO  Page_identity:22 - Page_identity Class Object Created
+2020-03-01 13:03:562 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:646 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 13:03:696 INFO  VerificationHelper:89 - element text is => My account > Your personal information
+2020-03-01 13:03:791 INFO  VerificationHelper:135 - verifying that='> My account > Your personal information' contains text= 'Your personal information'
+2020-03-01 13:03:792 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 13:03:794 INFO  TestBase:105 - ============TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality============Finished============
+2020-03-01 13:03:795 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:601 INFO  TestBase:83 - ============Launching the browser============
+2020-03-01 13:03:149 INFO  TestBase:88 - ============TC_footer_ID_28_verifySignoutLinkFunctionality============Started============
+2020-03-01 13:03:150 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-01 13:03:153 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-01 13:03:158 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-01 13:03:946 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-03-01 13:03:947 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:428 INFO  Page_authentication:87 - Typed = 'baymax@gmail.com' email on already registered section email textbox field 
+2020-03-01 13:03:629 INFO  Page_authentication:94 - Typed = 'baymax' password on already registered section password textbox field 
+2020-03-01 13:03:445 INFO  Page_authentication:108 - Clicked on 'Sign in' button 
+2020-03-01 13:03:446 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-01 13:03:492 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?controller=my-account
+2020-03-01 13:03:522 INFO  Footer:21 - FooterBar Class Object Created
+2020-03-01 13:03:71 INFO  Footer:206 - Clicking on 'Sign Out' link
+2020-03-01 13:03:72 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-01 13:03:73 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-01 13:03:122 INFO  VerificationHelper:34 - element is Displayed
+2020-03-01 13:03:152 INFO  VerificationHelper:89 - element text is => Authentication
+2020-03-01 13:03:210 INFO  VerificationHelper:135 - verifying that='> Authentication' contains text= 'Authentication'
+2020-03-01 13:03:211 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-01 13:03:213 INFO  TestBase:105 - ============TC_footer_ID_28_verifySignoutLinkFunctionality============Finished============
+2020-03-01 13:03:213 INFO  TestBase:110 - ============Closing the browser============
+2020-03-01 13:03:862 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-01 13:03:892 INFO  TestBase:124 - ============Ending the suite execution============

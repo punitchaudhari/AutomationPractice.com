@@ -100,6 +100,12 @@ public class PropertiesReaderClass {
 		return prop1.getProperty("summerDressesPageUrl");
 
 	}
+	public static String getAuthenticationPageUrl() {
+
+		Properties prop1 = PropertiesReaderClass();
+		return prop1.getProperty("authenticationPageUrl");
+
+	}
 	public static String getValidEmail() {
 
 		Properties prop1 = PropertiesReaderClass();
@@ -126,6 +132,7 @@ public class PropertiesReaderClass {
 		return prop1.getProperty("InvalidPassword");
 
 	}
+	
 /*	public static String getPageUrl() {
 
 		Properties prop1 = PropertiesReaderClass();

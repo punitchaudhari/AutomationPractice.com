@@ -13,12 +13,16 @@ import com.AutomationFramework.companyName.automationEcommerce.helper.window.Win
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Footer;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Header;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_aboutUs;
+import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_addresses;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_authentication;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_bestSales;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_contact;
+import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_history;
+import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_identity;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_index;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_myAccount;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_newProducts;
+import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_orderSlip;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_pricesDrop;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_sitemap;
 import com.AutomationFramework.companyName.automationEcommerce.pageObject.Page_stores;
@@ -45,6 +49,10 @@ public class footer extends TestBase {
 	Page_termsAndConditionsOfUse pg_termsAndConditionsOfUse;
 	Page_aboutUs pg_aboutUs;
 	Page_sitemap pg_sitemap;
+	Page_history pg_history;
+	Page_orderSlip pg_orderSlip;
+	Page_addresses pg_addresses;
+	Page_identity pg_identity;
 
 	@Test(enabled = false)
 	public void TC_footer_ID_01_verifyNewsletterSubscriptionFunctionality() {
@@ -175,7 +183,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_09_verifyWomenLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -190,7 +198,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_10_verifySpecialsLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -205,7 +213,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_11_verifyNewProductsLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -220,7 +228,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_12_verifyBestSellersLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -235,7 +243,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_13_verifyOurStoresLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -250,7 +258,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_14_verifyContactusLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -265,7 +273,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -281,7 +289,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_16_verifyAboutUsLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -296,7 +304,7 @@ public class footer extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_footer_ID_17_verifySitemapLinkFunctionality() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);
@@ -308,6 +316,184 @@ public class footer extends TestBase {
 		pg_sitemap = new Page_sitemap(driver);
 		vh = new VerificationHelper(driver);
 		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_sitemap.txt_PageInfoBar), "Sitemap");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_18_verifyMyAccountLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getIndexPageUrl());
+		footer = new Footer(driver);
+		footer.clkMyAccount();
+		getNavigatedPageUrlLog();
+		pg_authentication = new Page_authentication(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_authentication.txt_PageInfoBar), "Authentication");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_19_verifyMyOrdersLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getIndexPageUrl());
+		footer = new Footer(driver);
+		footer.clkMyOrders();
+		getNavigatedPageUrlLog();
+		pg_authentication = new Page_authentication(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_authentication.txt_PageInfoBar), "Authentication");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_20_verifyMyCreditSlipsLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getIndexPageUrl());
+		footer = new Footer(driver);
+		footer.clkMyCreditSlips();
+		getNavigatedPageUrlLog();
+		pg_authentication = new Page_authentication(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_authentication.txt_PageInfoBar), "Authentication");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_21_verifyMyAddressesLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getIndexPageUrl());
+		footer = new Footer(driver);
+		footer.clkMyAddresses();
+		getNavigatedPageUrlLog();
+		pg_authentication = new Page_authentication(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_authentication.txt_PageInfoBar), "Authentication");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_22_verifyMyPersonalInfoLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getIndexPageUrl());
+		footer = new Footer(driver);
+		footer.clkMyPersonalInfo();
+		getNavigatedPageUrlLog();
+		pg_authentication = new Page_authentication(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_authentication.txt_PageInfoBar), "Authentication");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_23_verifyMyAccountLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getAuthenticationPageUrl());
+		pg_authentication = new Page_authentication(driver);
+		pg_authentication.signIn(PropertiesReaderClass.getValidEmail(), PropertiesReaderClass.getValidPassword());
+		getNavigatedPageUrlLog();
+		footer = new Footer(driver);
+		footer.clkMyAccount();
+		pg_myAccount = new Page_myAccount(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_myAccount.txt_PageInfoBar), "My account");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_24_verifyMyOrdersLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getAuthenticationPageUrl());
+		pg_authentication = new Page_authentication(driver);
+		pg_authentication.signIn(PropertiesReaderClass.getValidEmail(), PropertiesReaderClass.getValidPassword());
+		getNavigatedPageUrlLog();
+		footer = new Footer(driver);
+		footer.clkMyOrders();
+		pg_history = new Page_history(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_history.txt_PageInfoBar), "Order history");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getAuthenticationPageUrl());
+		pg_authentication = new Page_authentication(driver);
+		pg_authentication.signIn(PropertiesReaderClass.getValidEmail(), PropertiesReaderClass.getValidPassword());
+		getNavigatedPageUrlLog();
+		footer = new Footer(driver);
+		footer.clkMyCreditSlips();
+		pg_orderSlip = new Page_orderSlip(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_orderSlip.txt_PageInfoBar), "Credit slips");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_26_verifyMyAddressesLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getAuthenticationPageUrl());
+		pg_authentication = new Page_authentication(driver);
+		pg_authentication.signIn(PropertiesReaderClass.getValidEmail(), PropertiesReaderClass.getValidPassword());
+		getNavigatedPageUrlLog();
+		footer = new Footer(driver);
+		footer.clkMyAddresses();
+		pg_addresses = new Page_addresses(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_addresses.txt_PageInfoBar), "My addresses");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getAuthenticationPageUrl());
+		pg_authentication = new Page_authentication(driver);
+		pg_authentication.signIn(PropertiesReaderClass.getValidEmail(), PropertiesReaderClass.getValidPassword());
+		getNavigatedPageUrlLog();
+		footer = new Footer(driver);
+		footer.clkMyPersonalInfo();
+		pg_identity = new Page_identity(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_identity.txt_PageInfoBar),
+				"Your personal information");
+		AssertionHelper.updateTestStatus(status);
+	}
+
+	@Test(enabled = false)
+	public void TC_footer_ID_28_verifySignoutLinkFunctionality() {
+		wh = new WaitHelper(driver);
+		wh.setImpliciteWait(60);
+		wh.setPageLoadTimeout(60);
+		getUrl(PropertiesReaderClass.getAuthenticationPageUrl());
+		pg_authentication = new Page_authentication(driver);
+		pg_authentication.signIn(PropertiesReaderClass.getValidEmail(), PropertiesReaderClass.getValidPassword());
+		getNavigatedPageUrlLog();
+		footer = new Footer(driver);
+		footer.clkSignOut();
+		pg_authentication = new Page_authentication(driver);
+		vh = new VerificationHelper(driver);
+		Boolean status = vh.verifyContains(vh.getTextFromElement(pg_authentication.txt_PageInfoBar), "Authentication");
 		AssertionHelper.updateTestStatus(status);
 	}
 

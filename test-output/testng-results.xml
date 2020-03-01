@@ -1,259 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="8" total="17" passed="9">
+<testng-results skipped="0" failed="1" ignored="22" total="28" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="159166" started-at="2020-03-01T06:49:14Z" finished-at="2020-03-01T06:51:54Z">
+  <suite name="Default suite" duration-ms="117705" started-at="2020-03-01T07:40:37Z" finished-at="2020-03-01T07:42:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="159166" started-at="2020-03-01T06:49:14Z" finished-at="2020-03-01T06:51:54Z">
+    <test name="Default test" duration-ms="117705" started-at="2020-03-01T07:40:37Z" finished-at="2020-03-01T07:42:34Z">
       <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.footer">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeSuite" is-config="true" duration-ms="151" started-at="2020-03-01T06:49:14Z" finished-at="2020-03-01T06:49:14Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeSuite" is-config="true" duration-ms="150" started-at="2020-03-01T07:40:37Z" finished-at="2020-03-01T07:40:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeTest" is-config="true" duration-ms="12" started-at="2020-03-01T06:49:14Z" finished-at="2020-03-01T06:49:14Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeTest" is-config="true" duration-ms="11" started-at="2020-03-01T07:40:37Z" finished-at="2020-03-01T07:40:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="10040" started-at="2020-03-01T06:49:14Z" finished-at="2020-03-01T06:49:24Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="10085" started-at="2020-03-01T07:40:37Z" finished-at="2020-03-01T07:40:47Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_09_verifyWomenLinkFunctionality()]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_23_verifyMyAccountLinkFunctionality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_09_verifyWomenLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_09_verifyWomenLinkFunctionality" duration-ms="8989" started-at="2020-03-01T06:49:24Z" finished-at="2020-03-01T06:49:33Z">
+        <test-method status="PASS" signature="TC_footer_ID_23_verifyMyAccountLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_23_verifyMyAccountLinkFunctionality" duration-ms="8459" started-at="2020-03-01T07:40:47Z" finished-at="2020-03-01T07:40:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_footer_ID_09_verifyWomenLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="727" started-at="2020-03-01T06:49:33Z" finished-at="2020-03-01T06:49:34Z">
+        </test-method> <!-- TC_footer_ID_23_verifyMyAccountLinkFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="775" started-at="2020-03-01T07:40:55Z" finished-at="2020-03-01T07:40:56Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_footer_ID_09_verifyWomenLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_09_verifyWomenLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
+                <![CDATA[[TestResult name=TC_footer_ID_23_verifyMyAccountLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_23_verifyMyAccountLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9334" started-at="2020-03-01T06:49:34Z" finished-at="2020-03-01T06:49:43Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9310" started-at="2020-03-01T07:40:56Z" finished-at="2020-03-01T07:41:05Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_10_verifySpecialsLinkFunctionality()]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_24_verifyMyOrdersLinkFunctionality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_10_verifySpecialsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_10_verifySpecialsLinkFunctionality" duration-ms="7040" started-at="2020-03-01T06:49:43Z" finished-at="2020-03-01T06:49:51Z">
+        <test-method status="PASS" signature="TC_footer_ID_24_verifyMyOrdersLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_24_verifyMyOrdersLinkFunctionality" duration-ms="8204" started-at="2020-03-01T07:41:05Z" finished-at="2020-03-01T07:41:14Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_footer_ID_10_verifySpecialsLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="735" started-at="2020-03-01T06:49:51Z" finished-at="2020-03-01T06:49:51Z">
+        </test-method> <!-- TC_footer_ID_24_verifyMyOrdersLinkFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="740" started-at="2020-03-01T07:41:14Z" finished-at="2020-03-01T07:41:14Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_footer_ID_10_verifySpecialsLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_10_verifySpecialsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
+                <![CDATA[[TestResult name=TC_footer_ID_24_verifyMyOrdersLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_24_verifyMyOrdersLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9375" started-at="2020-03-01T06:49:51Z" finished-at="2020-03-01T06:50:01Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9338" started-at="2020-03-01T07:41:14Z" finished-at="2020-03-01T07:41:24Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_11_verifyNewProductsLinkFunctionality()]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_11_verifyNewProductsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_11_verifyNewProductsLinkFunctionality" duration-ms="7087" started-at="2020-03-01T06:50:01Z" finished-at="2020-03-01T06:50:08Z">
+        <test-method status="FAIL" signature="TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality" duration-ms="8651" started-at="2020-03-01T07:41:24Z" finished-at="2020-03-01T07:41:32Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at com.AutomationFramework.companyName.automationEcommerce.helper.assertion.AssertionHelper.fail(AssertionHelper.java:102)
+at com.AutomationFramework.companyName.automationEcommerce.helper.assertion.AssertionHelper.updateTestStatus(AssertionHelper.java:117)
+at com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality(footer.java:445)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_footer_ID_11_verifyNewProductsLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="741" started-at="2020-03-01T06:50:08Z" finished-at="2020-03-01T06:50:08Z">
+        </test-method> <!-- TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="683" started-at="2020-03-01T07:41:32Z" finished-at="2020-03-01T07:41:33Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_footer_ID_11_verifyNewProductsLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_11_verifyNewProductsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
+                <![CDATA[[TestResult name=TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality status=FAILURE method=footer.TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9300" started-at="2020-03-01T06:50:08Z" finished-at="2020-03-01T06:50:18Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9509" started-at="2020-03-01T07:41:33Z" finished-at="2020-03-01T07:41:42Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_12_verifyBestSellersLinkFunctionality()]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_26_verifyMyAddressesLinkFunctionality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_12_verifyBestSellersLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_12_verifyBestSellersLinkFunctionality" duration-ms="8468" started-at="2020-03-01T06:50:18Z" finished-at="2020-03-01T06:50:26Z">
+        <test-method status="PASS" signature="TC_footer_ID_26_verifyMyAddressesLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_26_verifyMyAddressesLinkFunctionality" duration-ms="8389" started-at="2020-03-01T07:41:42Z" finished-at="2020-03-01T07:41:51Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_footer_ID_12_verifyBestSellersLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="725" started-at="2020-03-01T06:50:26Z" finished-at="2020-03-01T06:50:27Z">
+        </test-method> <!-- TC_footer_ID_26_verifyMyAddressesLinkFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="663" started-at="2020-03-01T07:41:51Z" finished-at="2020-03-01T07:41:52Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_footer_ID_12_verifyBestSellersLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_12_verifyBestSellersLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
+                <![CDATA[[TestResult name=TC_footer_ID_26_verifyMyAddressesLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_26_verifyMyAddressesLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9265" started-at="2020-03-01T06:50:27Z" finished-at="2020-03-01T06:50:36Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9334" started-at="2020-03-01T07:41:52Z" finished-at="2020-03-01T07:42:01Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_13_verifyOurStoresLinkFunctionality()]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_13_verifyOurStoresLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_13_verifyOurStoresLinkFunctionality" duration-ms="8086" started-at="2020-03-01T06:50:36Z" finished-at="2020-03-01T06:50:44Z">
+        <test-method status="PASS" signature="TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality" duration-ms="11453" started-at="2020-03-01T07:42:01Z" finished-at="2020-03-01T07:42:12Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_footer_ID_13_verifyOurStoresLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="737" started-at="2020-03-01T06:50:44Z" finished-at="2020-03-01T06:50:45Z">
+        </test-method> <!-- TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="806" started-at="2020-03-01T07:42:12Z" finished-at="2020-03-01T07:42:13Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_footer_ID_13_verifyOurStoresLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_13_verifyOurStoresLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
+                <![CDATA[[TestResult name=TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_27_verifyMyPersonalInfoLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9306" started-at="2020-03-01T06:50:45Z" finished-at="2020-03-01T06:50:54Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9548" started-at="2020-03-01T07:42:13Z" finished-at="2020-03-01T07:42:23Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_14_verifyContactusLinkFunctionality()]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_28_verifySignoutLinkFunctionality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_14_verifyContactusLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_14_verifyContactusLinkFunctionality" duration-ms="7103" started-at="2020-03-01T06:50:54Z" finished-at="2020-03-01T06:51:01Z">
+        <test-method status="PASS" signature="TC_footer_ID_28_verifySignoutLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_28_verifySignoutLinkFunctionality" duration-ms="11062" started-at="2020-03-01T07:42:23Z" finished-at="2020-03-01T07:42:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_footer_ID_14_verifyContactusLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="728" started-at="2020-03-01T06:51:01Z" finished-at="2020-03-01T06:51:02Z">
+        </test-method> <!-- TC_footer_ID_28_verifySignoutLinkFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="649" started-at="2020-03-01T07:42:34Z" finished-at="2020-03-01T07:42:34Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_footer_ID_14_verifyContactusLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_14_verifyContactusLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
+                <![CDATA[[TestResult name=TC_footer_ID_28_verifySignoutLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_28_verifySignoutLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9296" started-at="2020-03-01T06:51:02Z" finished-at="2020-03-01T06:51:11Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality" duration-ms="7159" started-at="2020-03-01T06:51:11Z" finished-at="2020-03-01T06:51:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="725" started-at="2020-03-01T06:51:19Z" finished-at="2020-03-01T06:51:19Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9316" started-at="2020-03-01T06:51:19Z" finished-at="2020-03-01T06:51:29Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_16_verifyAboutUsLinkFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_16_verifyAboutUsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_16_verifyAboutUsLinkFunctionality" duration-ms="6977" started-at="2020-03-01T06:51:29Z" finished-at="2020-03-01T06:51:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_footer_ID_16_verifyAboutUsLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="714" started-at="2020-03-01T06:51:36Z" finished-at="2020-03-01T06:51:36Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=TC_footer_ID_16_verifyAboutUsLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_16_verifyAboutUsLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="9300" started-at="2020-03-01T06:51:36Z" finished-at="2020-03-01T06:51:46Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.footer.TC_footer_ID_17_verifySitemapLinkFunctionality()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_footer_ID_17_verifySitemapLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="TC_footer_ID_17_verifySitemapLinkFunctionality" duration-ms="7155" started-at="2020-03-01T06:51:46Z" finished-at="2020-03-01T06:51:53Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_footer_ID_17_verifySitemapLinkFunctionality -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterMethod" is-config="true" duration-ms="693" started-at="2020-03-01T06:51:53Z" finished-at="2020-03-01T06:51:54Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=TC_footer_ID_17_verifySitemapLinkFunctionality status=SUCCESS method=footer.TC_footer_ID_17_verifySitemapLinkFunctionality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-03-01T06:51:54Z" finished-at="2020-03-01T06:51:54Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-03-01T07:42:34Z" finished-at="2020-03-01T07:42:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterSuite" is-config="true" duration-ms="329" started-at="2020-03-01T06:51:54Z" finished-at="2020-03-01T06:51:54Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.footer@eec5a4a]" name="afterSuite" is-config="true" duration-ms="506" started-at="2020-03-01T07:42:34Z" finished-at="2020-03-01T07:42:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

@@ -27,6 +27,9 @@ public class Page_addresses {
 	
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[1]")
 	public WebElement img_homeIcon;
+	
+	@FindBy(xpath = "//*[@id='columns']/div[1]")
+	public WebElement txt_PageInfoBar;
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[2]")
 	public WebElement link_myAccount;

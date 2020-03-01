@@ -5,20 +5,13 @@
     <classes>
       <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.footer">
         <methods>
-          <include name="TC_footer_ID_12_verifyBestSellersLinkFunctionality"/>
+          <include name="TC_footer_ID_25_verifyMyCreditSlipsLinkFunctionality"/>
+          <include name="beforeTest"/>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
-          <include name="afterTest"/>
-          <include name="TC_footer_ID_15_verifyTermsAndConditionsOfUseLinkFunctionality"/>
-          <include name="beforeSuite"/>
-          <include name="TC_footer_ID_14_verifyContactusLinkFunctionality"/>
-          <include name="TC_footer_ID_16_verifyAboutUsLinkFunctionality"/>
-          <include name="TC_footer_ID_17_verifySitemapLinkFunctionality"/>
-          <include name="TC_footer_ID_13_verifyOurStoresLinkFunctionality"/>
-          <include name="TC_footer_ID_10_verifySpecialsLinkFunctionality"/>
-          <include name="beforeTest"/>
-          <include name="TC_footer_ID_11_verifyNewProductsLinkFunctionality"/>
           <include name="afterSuite"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
         </methods>
       </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.footer -->
     </classes>

@@ -25,7 +25,10 @@ public class Page_identity {
 
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a")
 	public WebElement img_homeIcon;
-
+	
+	@FindBy(xpath = "//*[@id='columns']/div[1]")
+	public WebElement txt_PageInfoBar;
+	
 	@FindBy(xpath = "//*[@id='columns']/div[1]/a[2]")
 	public WebElement link_myAccount;
 
