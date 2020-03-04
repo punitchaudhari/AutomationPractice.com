@@ -22,6 +22,9 @@ public class Popup_productAddedInCartStatus {
 		TestBase.test.log(Status.INFO, "Popup_productAddedInCartStatus Class Object Created");
 	}
 
+	@FindBy(xpath = "//*[@id='layer_cart']/div[1]")
+	public WebElement window_productAddedInCartStatus;
+	
 	@FindBy(xpath = "//*[@id='layer_cart']/div[1]/div[1]/h2")
 	public WebElement lbl_productSuccesfullAddedToYourShoppingCart;
 
