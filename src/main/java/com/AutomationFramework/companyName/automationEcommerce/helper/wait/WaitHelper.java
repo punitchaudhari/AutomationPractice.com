@@ -72,8 +72,8 @@ public class WaitHelper {
 		WebDriverWait wait = new WebDriverWait(driver, timeOutInSeconds);
 		wait.pollingEvery(Duration.ofMillis(pollingEveryMilliSec));
 		wait.ignoring(NoSuchElementException.class);
-		log.info("Waiting for " + element.toString() + " element for " + timeOutInSeconds + " Seconds To Be Invisible");
-		TestBase.test.log(Status.INFO,"Waiting for " + element.toString() + " element for " + timeOutInSeconds + " Seconds To Be Invisible");		
+		log.info("Waiting for " + element.toString() + " element for " + timeOutInSeconds + " Seconds To Be visible");
+		TestBase.test.log(Status.INFO,"Waiting for " + element.toString() + " element for " + timeOutInSeconds + " Seconds To Be visible");		
 		  wait.until(ExpectedConditions.visibilityOf(element));
 		log.info("element is visible now");
 		TestBase.test.log(Status.INFO,"element is visible now");		

@@ -25,6 +25,9 @@ public class Popup_productQuickView {
 		TestBase.test.log(Status.INFO, "Popup_productQuickView Class Object Created");
 	}
 
+	@FindBy(xpath = "//*[@id='index']/div[3]/div")
+	public WebElement window_popup_productQuickView;
+
 	@FindBy(xpath = "//*[@id='bigpic']")
 	public WebElement img_productBigImage;
 

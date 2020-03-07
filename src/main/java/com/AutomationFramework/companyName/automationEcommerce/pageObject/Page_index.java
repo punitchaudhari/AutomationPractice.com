@@ -24,7 +24,7 @@ public class Page_index {
 		TestBase.test.log(Status.INFO, "Page_index Class Object Created");
 	}
 	
-	@FindBy(xpath="//*[@id='homeslider']/li/div/p[2]/button")
+	@FindBy(xpath="//*[@id='homepage-slider']/div/div[1]/ul/li/a")
 	public List<WebElement>  btn_shopNow;
 	
 	@FindBy(xpath="//*[@id='htmlcontent_top']/ul/li[1]/a")
@@ -57,7 +57,7 @@ public class Page_index {
 	@FindBy(xpath="//*[@id='blockbestsellers']/li/div/div[1]/div/div[2]/span[3]")
 	public List<WebElement>  lbl_productDiscountPercentage;
 	
-	@FindBy(xpath="//*[@id='blockbestsellers']/li/div/div[2]/h5/a")
+	@FindBy(xpath="//*[@id='homefeatured']/li/div/div[2]/h5/a")
 	public List<WebElement>  link_productNames;
 	
 	@FindBy(xpath="//*[@id='homefeatured']/li/div/div[2]/div[2]/a[1]")

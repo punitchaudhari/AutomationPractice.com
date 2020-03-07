@@ -105,7 +105,7 @@ public class authentication extends TestBase {
 		AssertionHelper.updateTestStatus(status);
 	}
 
-	@Test(enabled = true)
+	@Test(enabled = false)
 	public void TC_authentication_ID_06_verifyErrorMessage() {
 		wh = new WaitHelper(driver);
 		wh.setImpliciteWait(60);

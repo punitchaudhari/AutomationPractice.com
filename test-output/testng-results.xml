@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="14" total="15" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32266" started-at="2020-03-01T11:48:57Z" finished-at="2020-03-01T11:49:30Z">
+  <suite name="Default suite" duration-ms="24860" started-at="2020-03-07T07:11:59Z" finished-at="2020-03-07T07:12:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32266" started-at="2020-03-01T11:48:57Z" finished-at="2020-03-01T11:49:30Z">
-      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4]" name="beforeSuite" is-config="true" duration-ms="185" started-at="2020-03-01T11:48:57Z" finished-at="2020-03-01T11:48:57Z">
+    <test name="Default test" duration-ms="24860" started-at="2020-03-07T07:11:59Z" finished-at="2020-03-07T07:12:24Z">
+      <class name="com.AutomationFramework.companyName.automationEcommerce.testScripts.index">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a]" name="beforeSuite" is-config="true" duration-ms="160" started-at="2020-03-07T07:11:59Z" finished-at="2020-03-07T07:11:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4]" name="beforeTest" is-config="true" duration-ms="20" started-at="2020-03-01T11:48:57Z" finished-at="2020-03-01T11:48:57Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a]" name="beforeTest" is-config="true" duration-ms="10" started-at="2020-03-07T07:11:59Z" finished-at="2020-03-07T07:11:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4]" name="beforeMethod" is-config="true" duration-ms="10420" started-at="2020-03-01T11:48:57Z" finished-at="2020-03-01T11:49:08Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a]" name="beforeMethod" is-config="true" duration-ms="10021" started-at="2020-03-07T07:11:59Z" finished-at="2020-03-07T07:12:09Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass.scrollingTest() throws java.lang.InterruptedException]]>
+                <![CDATA[public void com.AutomationFramework.companyName.automationEcommerce.testScripts.index.TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality()]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="scrollingTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4]" name="scrollingTest" duration-ms="21032" started-at="2020-03-01T11:49:08Z" finished-at="2020-03-01T11:49:29Z">
+        <test-method status="PASS" signature="TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a]" name="TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality" duration-ms="14058" started-at="2020-03-07T07:12:09Z" finished-at="2020-03-07T07:12:23Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- scrollingTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4]" name="afterMethod" is-config="true" duration-ms="764" started-at="2020-03-01T11:49:29Z" finished-at="2020-03-01T11:49:30Z">
+        </test-method> <!-- TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a]" name="afterMethod" is-config="true" duration-ms="749" started-at="2020-03-07T07:12:23Z" finished-at="2020-03-07T07:12:24Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=scrollingTest status=SUCCESS method=testclass.scrollingTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4] output={null}]]]>
+                <![CDATA[[TestResult name=TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality status=SUCCESS method=index.TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-03-01T11:49:30Z" finished-at="2020-03-01T11:49:30Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-03-07T07:12:24Z" finished-at="2020-03-07T07:12:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass@210366b4]" name="afterSuite" is-config="true" duration-ms="408" started-at="2020-03-01T11:49:30Z" finished-at="2020-03-01T11:49:30Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.AutomationFramework.companyName.automationEcommerce.testScripts.index@eec5a4a]" name="afterSuite" is-config="true" duration-ms="434" started-at="2020-03-07T07:12:24Z" finished-at="2020-03-07T07:12:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
-      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.testclass -->
+      </class> <!-- com.AutomationFramework.companyName.automationEcommerce.testScripts.index -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

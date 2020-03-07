@@ -2686,3 +2686,749 @@ remote stacktrace: Backtrace:
 2020-03-01 17:03:445 INFO  TestBase:110 - ============Closing the browser============
 2020-03-01 17:03:209 INFO  TestBase:70 - ============Ending the TESTS execution============
 2020-03-01 17:03:226 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:641 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:655 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:683 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:415 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:449 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:450 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:155 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:183 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:371 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:388 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:411 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:602 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:616 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:631 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:632 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:333 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:362 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:776 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:786 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:811 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:856 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:878 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:893 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:893 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:568 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:590 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:520 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:532 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:558 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:732 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:743 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:756 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:761 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:392 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:420 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:373 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:384 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:404 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:593 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:604 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:618 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:618 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:302 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:331 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:125 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:137 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:158 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:365 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:159 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 13:03:175 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 13:03:200 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:200 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:982 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:04 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:664 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:684 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:709 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:43 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:749 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 13:03:756 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 13:03:774 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:775 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:505 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:526 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:648 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:660 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:682 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:845 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:461 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 13:03:477 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 13:03:490 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:508 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:508 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:523 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:544 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:534 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:548 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:572 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:720 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:300 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 13:03:309 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 13:03:317 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:327 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:328 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:101 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:122 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:169 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:180 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:207 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:436 INFO  TestBase:88 - ============TC_authentication_ID_01_verifyHomeIconbuttonFunctionality============Started============
+2020-03-05 13:03:447 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:454 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-05 13:03:487 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-05 13:03:601 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-05 13:03:806 INFO  Page_authentication:71 - Clicked on 'Home icon' button
+2020-03-05 13:03:817 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 13:03:818 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 13:03:821 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 13:03:830 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php' with 'http://automationpractice.com/index.php'
+2020-03-05 13:03:834 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 13:03:837 INFO  TestBase:105 - ============TC_authentication_ID_01_verifyHomeIconbuttonFunctionality============Finished============
+2020-03-05 13:03:838 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:575 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:989 INFO  TestBase:88 - ============TC_authentication_ID_06_verifyErrorMessage============Started============
+2020-03-05 13:03:991 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:01 INFO  WaitHelper:54 - Implicit wait set to = 60 seconds
+2020-03-05 13:03:27 INFO  WaitHelper:41 - Pageload timeout set to = 60 seconds
+2020-03-05 13:03:273 INFO  Page_authentication:22 - Page_authentication Class Object Created
+2020-03-05 13:03:294 INFO  Page_authentication:114 - Clicked on 'Sign in' button 
+2020-03-05 13:03:297 INFO  Page_myAccount:22 - Page_myAccount Class Object Created
+2020-03-05 13:03:297 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 13:03:376 INFO  VerificationHelper:34 - element is Displayed
+2020-03-05 13:03:404 INFO  VerificationHelper:89 - element text is =There is 1 error
+An email address required.
+2020-03-05 13:03:442 INFO  VerificationHelper:135 - verifying that='There is 1 error
+An email address required.' contains text= 'An email address required.'
+2020-03-05 13:03:442 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 13:03:444 INFO  TestBase:105 - ============TC_authentication_ID_06_verifyErrorMessage============Finished============
+2020-03-05 13:03:444 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:178 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:196 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:344 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:360 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:391 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:629 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:811 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 13:03:820 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 13:03:828 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 13:03:838 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:838 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:547 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:571 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:315 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:331 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:363 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:573 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:369 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 13:03:378 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 13:03:396 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 13:03:396 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 13:03:158 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 13:03:184 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 13:03:196 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 13:03:208 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 13:03:235 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 13:03:448 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 13:03:564 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 13:03:574 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:254 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:264 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:285 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:773 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 14:03:788 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:799 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:805 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:484 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:499 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:574 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:659 INFO  WaitHelper:75 - Waiting for [[ChromeDriver: chrome on WINDOWS (5d3426fce582b3c1e2947609964d62e7)] -> xpath: //*[@id='homeslider']/li/div/p[2]/button] element for 30 Seconds To Be Invisible
+2020-03-05 14:03:794 INFO  WaitHelper:78 - element is visible now
+2020-03-05 14:03:898 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 14:03:898 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:616 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 14:03:635 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 14:03:977 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:991 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:19 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:292 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 14:03:321 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:329 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:334 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:894 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:909 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:957 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:09 INFO  WaitHelper:75 - Waiting for [[ChromeDriver: chrome on WINDOWS (4b8aa703897a0c3bda0c6e970285aee8)] -> xpath: //*[@id='homeslider']/li/div/p[2]/button] element for 30 Seconds To Be visible
+2020-03-05 14:03:135 INFO  WaitHelper:78 - element is visible now
+2020-03-05 14:03:250 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 14:03:250 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:936 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 14:03:955 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 14:03:181 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:194 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:215 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:551 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 14:03:575 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:619 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:628 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:257 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:268 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:306 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:420 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 14:03:420 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:323 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 14:03:355 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 14:03:820 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:834 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:854 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:341 INFO  TestBase:88 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Started============
+2020-03-05 14:03:363 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:388 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:419 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:302 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:327 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:428 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:741 INFO  TestBase:105 - ============TC_index_ID_01_VerifyShopNowButtonFunctinality============Finished============
+2020-03-05 14:03:742 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:567 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 14:03:597 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 14:03:48 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:59 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:83 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:603 INFO  TestBase:88 - ============TC_index_ID_04_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:635 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:656 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:672 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:499 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:521 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:626 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:261 INFO  Page_index:96 - Clicked on ' 2nd ad poster' image 
+2020-03-05 14:03:267 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:492 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?utm_source=v16_homeslider&ab=1'
+2020-03-05 14:03:495 INFO  AssertionHelper:100 - Test is <<FAILED>>
+2020-03-05 14:03:529 INFO  TestBase:105 - ============TC_index_ID_04_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:530 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:473 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 14:03:516 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 14:03:64 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:76 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:99 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:391 INFO  TestBase:88 - ============TC_index_ID_09_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:408 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:415 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:434 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:982 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:992 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:33 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:528 INFO  Page_index:131 - Clicked on '7th ad poster' image  
+2020-03-05 14:03:532 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:558 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:561 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:564 INFO  TestBase:105 - ============TC_index_ID_09_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:565 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:335 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 14:03:355 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 14:03:759 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:774 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:794 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:944 INFO  TestBase:88 - ============TC_index_ID_04_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:948 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:965 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:984 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:397 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:407 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:458 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:842 INFO  Page_index:96 - Clicked on ' 2nd ad poster' image 
+2020-03-05 14:03:844 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:852 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:855 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:858 INFO  TestBase:105 - ============TC_index_ID_04_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:858 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:635 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:76 INFO  TestBase:88 - ============TC_index_ID_05_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:78 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:87 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:95 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:437 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:450 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:465 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:845 INFO  Page_index:103 - Clicked on '3rd ad poster' image  
+2020-03-05 14:03:846 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:925 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:925 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:928 INFO  TestBase:105 - ============TC_index_ID_05_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:929 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:705 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:37 INFO  TestBase:88 - ============TC_index_ID_06_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:42 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:52 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:58 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:801 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:810 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:816 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:203 INFO  Page_index:110 - Clicked on '4th ad poster' image  
+2020-03-05 14:03:204 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:211 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:212 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:213 INFO  TestBase:105 - ============TC_index_ID_06_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:214 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:940 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:216 INFO  TestBase:88 - ============TC_index_ID_07_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:218 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:229 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:234 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:46 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:59 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:72 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:901 INFO  Page_index:117 - Clicked on '5th ad poster' image  
+2020-03-05 14:03:901 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:912 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:913 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:916 INFO  TestBase:105 - ============TC_index_ID_07_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:916 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:635 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:150 INFO  TestBase:88 - ============TC_index_ID_08_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:157 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:162 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:178 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:305 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:320 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:328 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:804 INFO  Page_index:124 - Clicked on '6th ad poster' image  
+2020-03-05 14:03:804 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:814 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:814 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:818 INFO  TestBase:105 - ============TC_index_ID_08_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:818 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:505 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:954 INFO  TestBase:88 - ============TC_index_ID_09_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:957 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:975 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:995 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:155 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:170 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:179 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:597 INFO  Page_index:131 - Clicked on '7th ad poster' image  
+2020-03-05 14:03:598 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:605 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:605 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:606 INFO  TestBase:105 - ============TC_index_ID_09_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:607 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:375 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 14:03:803 INFO  TestBase:88 - ============TC_index_ID_10_VerifyAdPosterFunctinality============Started============
+2020-03-05 14:03:804 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 14:03:809 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 14:03:824 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 14:03:720 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 14:03:731 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 14:03:738 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 14:03:578 INFO  Page_index:138 - Clicked on '8th ad poster' image  
+2020-03-05 14:03:578 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 14:03:593 INFO  VerificationHelper:122 - verifying if text is equals of 'https://www.prestashop.com/en?ab=1' with 'https://www.prestashop.com/en?ab=1'
+2020-03-05 14:03:594 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-05 14:03:595 INFO  TestBase:105 - ============TC_index_ID_10_VerifyAdPosterFunctinality============Finished============
+2020-03-05 14:03:596 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 14:03:385 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 14:03:404 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 14:03:12 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 14:03:22 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 14:03:47 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 15:03:424 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-05 15:03:450 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 15:03:467 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 15:03:487 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 15:03:489 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 15:03:684 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 15:03:692 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 15:03:700 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-05 15:03:743 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 15:03:834 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-05 15:03:835 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 15:03:577 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 15:03:597 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 15:03:232 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 15:03:239 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 15:03:267 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 15:03:430 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-05 15:03:451 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 15:03:465 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 15:03:483 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 15:03:484 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 15:03:618 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 15:03:627 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 15:03:637 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-05 15:03:681 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 15:03:802 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-05 15:03:20 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-03-05 15:03:356 INFO  Page_index:173 - Clicked on 'Quick View' button number = '1' 
+2020-03-05 15:03:364 INFO  Popup_productQuickView:24 - Popup_productQuickView Class Object Created
+2020-03-05 15:03:404 INFO  VerificationHelper:40 - element is not Displayed
+2020-03-05 15:03:404 ERROR VerificationHelper:42 - 
+2020-03-05 15:03:413 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-05 15:03:414 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 15:03:187 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 15:03:207 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-05 15:03:430 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-05 15:03:449 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-05 15:03:494 INFO  TestBase:83 - ============Launching the browser============
+2020-03-05 15:03:689 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-05 15:03:707 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-05 15:03:740 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-05 15:03:745 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-05 15:03:747 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-05 15:03:248 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-05 15:03:256 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-05 15:03:265 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-05 15:03:302 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-05 15:03:469 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-05 15:03:668 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-03-05 15:03:850 INFO  Page_index:173 - Clicked on 'Quick View' button number = '2' 
+2020-03-05 15:03:857 INFO  Popup_productQuickView:24 - Popup_productQuickView Class Object Created
+2020-03-05 15:03:906 INFO  VerificationHelper:40 - element is not Displayed
+2020-03-05 15:03:907 ERROR VerificationHelper:42 - 
+2020-03-05 15:03:924 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-05 15:03:924 INFO  TestBase:110 - ============Closing the browser============
+2020-03-05 15:03:797 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-05 15:03:817 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 11:03:81 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 11:03:92 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 11:03:123 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 11:03:300 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-07 11:03:314 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 11:03:318 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 11:03:323 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 11:03:324 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 11:03:339 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 11:03:347 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 11:03:353 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 11:03:401 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 11:03:529 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-07 11:03:734 INFO  ActionHelper:30 - moved mouse pointer to webElement
+2020-03-07 11:03:835 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-07 11:03:836 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 11:03:482 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 11:03:509 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 11:03:408 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 11:03:419 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 11:03:442 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 11:03:498 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-07 11:03:504 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 11:03:517 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 11:03:520 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 11:03:522 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 11:03:408 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 11:03:414 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 11:03:422 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 11:03:457 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 11:03:595 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-07 11:03:616 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-07 11:03:617 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 11:03:391 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 11:03:415 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 11:03:617 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 11:03:629 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 11:03:654 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 11:03:729 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-07 11:03:738 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 11:03:749 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 11:03:754 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 11:03:756 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 11:03:741 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 11:03:748 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 11:03:757 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 11:03:794 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 11:03:904 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-07 11:03:117 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 11:03:228 INFO  Page_index:173 - Clicked on 'Quick View' button number = '3' 
+2020-03-07 11:03:233 INFO  Popup_productQuickView:24 - Popup_productQuickView Class Object Created
+2020-03-07 11:03:266 INFO  VerificationHelper:40 - element is not Displayed
+2020-03-07 11:03:267 ERROR VerificationHelper:42 - 
+2020-03-07 11:03:276 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-07 11:03:277 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 11:03:959 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 11:03:984 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 11:03:464 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 11:03:474 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 11:03:499 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 11:03:637 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-07 11:03:646 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 11:03:658 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 11:03:661 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 11:03:664 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 11:03:744 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 11:03:752 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 11:03:761 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 11:03:798 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 11:03:912 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-07 11:03:104 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 11:03:213 INFO  Page_index:173 - Clicked on 'Quick View' button number = '3' 
+2020-03-07 11:03:218 INFO  Popup_productQuickView:24 - Popup_productQuickView Class Object Created
+2020-03-07 11:03:276 INFO  WaitHelper:75 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id=index']/div[2]/div/div/div/div' element for 10 Seconds To Be visible
+2020-03-07 11:03:314 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-07 11:03:314 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 11:03:00 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 11:03:35 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 11:03:891 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 11:03:901 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 11:03:926 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 11:03:149 INFO  TestBase:88 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Started============
+2020-03-07 11:03:162 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 11:03:168 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 11:03:174 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 11:03:176 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 11:03:411 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 11:03:420 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 11:03:425 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 11:03:460 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 11:03:560 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-07 11:03:769 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 11:03:928 INFO  Page_index:173 - Clicked on 'Quick View' button number = '3' 
+2020-03-07 11:03:937 INFO  Popup_productQuickView:24 - Popup_productQuickView Class Object Created
+2020-03-07 11:03:09 INFO  WaitHelper:75 - Waiting for [[ChromeDriver: chrome on WINDOWS (786458a300306ef2ad98f2cb21161d7b)] -> xpath: //*[@id='index']/div[3]/div] element for 10 Seconds To Be visible
+2020-03-07 11:03:111 INFO  WaitHelper:78 - element is visible now
+2020-03-07 11:03:143 INFO  VerificationHelper:34 - element is Displayed
+2020-03-07 11:03:145 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-07 11:03:150 INFO  TestBase:105 - ============TC_index_ID_11_VerifyQuickViewButtonFunctinality============Finished============
+2020-03-07 11:03:151 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 11:03:875 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 11:03:892 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 11:03:169 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 11:03:178 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 11:03:203 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 11:03:274 INFO  TestBase:88 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Started============
+2020-03-07 11:03:281 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 11:03:289 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 11:03:295 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 11:03:297 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 11:03:75 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 11:03:82 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 11:03:89 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 11:03:123 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 11:03:234 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-07 11:03:439 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 11:03:510 INFO  TestBase:105 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Finished============
+2020-03-07 11:03:510 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 11:03:166 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 11:03:194 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 12:03:396 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 12:03:408 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 12:03:429 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:408 INFO  TestBase:88 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Started============
+2020-03-07 12:03:420 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:424 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:434 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:436 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:501 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:508 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:516 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:555 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:646 INFO  TestBase:105 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Finished============
+2020-03-07 12:03:646 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:307 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:576 INFO  TestBase:88 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Started============
+2020-03-07 12:03:585 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:590 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:594 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:595 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:602 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:611 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:617 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:620 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:662 INFO  TestBase:105 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Finished============
+2020-03-07 12:03:662 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:367 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 12:03:398 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 12:03:712 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 12:03:724 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 12:03:755 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:808 INFO  TestBase:88 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Started============
+2020-03-07 12:03:817 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:823 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:827 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:828 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:855 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:866 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:873 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:908 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:02 INFO  TestBase:105 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Finished============
+2020-03-07 12:03:03 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:734 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:909 INFO  TestBase:88 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Started============
+2020-03-07 12:03:911 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:914 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:920 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:921 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:853 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:865 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:873 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:877 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:922 INFO  TestBase:105 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Finished============
+2020-03-07 12:03:922 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:592 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 12:03:622 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 12:03:606 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 12:03:619 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 12:03:643 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:738 INFO  TestBase:88 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Started============
+2020-03-07 12:03:766 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:778 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:783 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:784 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:237 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:245 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:253 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:286 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:404 INFO  Page_index:166 - Clicked on 'BEST SELLERS' button  
+2020-03-07 12:03:592 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 12:03:500 INFO  Page_index:180 - Clicked on 'Add to cart' button number = '3' 
+2020-03-07 12:03:513 INFO  Popup_productAddedInCartStatus:21 - Popup_productAddedInCartStatus Class Object Created
+2020-03-07 12:03:577 INFO  VerificationHelper:40 - element is not Displayed
+2020-03-07 12:03:578 ERROR VerificationHelper:42 - 
+2020-03-07 12:03:612 INFO  TestBase:105 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Finished============
+2020-03-07 12:03:613 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:357 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:504 INFO  TestBase:194 - session not created
+from chrome not reachable
+  (Session info: chrome=80.0.3987.132)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-046U7N0', ip: '192.168.1.205', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00720C83+1707139]
+	Ordinal0 [0x006868F1+1075441]
+	Ordinal0 [0x005FDE72+515698]
+	Ordinal0 [0x005F7CA8+490664]
+	Ordinal0 [0x005F839B+492443]
+	Ordinal0 [0x005F92F5+496373]
+	Ordinal0 [0x005F4F05+478981]
+	Ordinal0 [0x005FECA0+519328]
+	Ordinal0 [0x005ACA67+182887]
+	Ordinal0 [0x005ABDDD+179677]
+	Ordinal0 [0x005A9D4B+171339]
+	Ordinal0 [0x00591D4A+73034]
+	Ordinal0 [0x00592DC0+77248]
+	Ordinal0 [0x00592D59+77145]
+	Ordinal0 [0x0069BB67+1162087]
+	GetHandleVerifier [0x007BA966+508998]
+	GetHandleVerifier [0x007BA6A4+508292]
+	GetHandleVerifier [0x007CF7B7+594583]
+	GetHandleVerifier [0x007BB1D6+511158]
+	Ordinal0 [0x0069402C+1130540]
+	Ordinal0 [0x0069D4CB+1168587]
+	Ordinal0 [0x0069D633+1168947]
+	Ordinal0 [0x006B5B35+1268533]
+	BaseThreadInitThunk [0x77316359+25]
+	RtlGetAppContainerNamedObjectPath [0x77A57B74+228]
+	RtlGetAppContainerNamedObjectPath [0x77A57B44+180]
+
+2020-03-07 12:03:518 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 12:03:563 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 12:03:723 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 12:03:733 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 12:03:755 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:998 INFO  TestBase:88 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Started============
+2020-03-07 12:03:04 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:10 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:17 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:19 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:899 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:909 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:917 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:962 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:221 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 12:03:338 INFO  Page_index:180 - Clicked on 'Add to cart' button number = '3' 
+2020-03-07 12:03:344 INFO  Popup_productAddedInCartStatus:21 - Popup_productAddedInCartStatus Class Object Created
+2020-03-07 12:03:439 INFO  VerificationHelper:34 - element is Displayed
+2020-03-07 12:03:446 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-07 12:03:450 INFO  TestBase:105 - ============TC_index_ID_12_VerifyAddToCartButtonFunctinality============Finished============
+2020-03-07 12:03:450 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:144 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:409 INFO  TestBase:88 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Started============
+2020-03-07 12:03:412 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:422 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:426 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:426 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:146 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:154 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:161 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:161 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:321 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 12:03:306 INFO  Page_index:187 - Clicked on 'More' button number = '3'  
+2020-03-07 12:03:317 INFO  Page_product:24 - Page_product Class Object Created
+2020-03-07 12:03:335 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_product=3&controller=product
+2020-03-07 12:03:352 INFO  VerificationHelper:122 - verifying if text is equals of 'http://automationpractice.com/index.php?id_product=3&controller=product' with 'http://automationpractice.com/index.php?id_product=2&controller=product'
+2020-03-07 12:03:364 ERROR SoftAssertionHelper:36 -  Test step is : <<FAILED>> Expected [true] but found [false]
+2020-03-07 12:03:369 INFO  Page_product:24 - Page_product Class Object Created
+2020-03-07 12:03:473 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Casual Dresses>Printed Dress' contains text= 'Printed Dress'
+2020-03-07 12:03:473 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-07 12:03:482 INFO  TestBase:105 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Finished============
+2020-03-07 12:03:482 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:261 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 12:03:283 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 12:03:458 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 12:03:470 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 12:03:493 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:513 INFO  TestBase:88 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Started============
+2020-03-07 12:03:522 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:527 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:531 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:532 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:277 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:286 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:293 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:327 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:542 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 12:03:34 INFO  Page_index:187 - Clicked on 'More' button number = '3'  
+2020-03-07 12:03:50 INFO  Page_product:24 - Page_product Class Object Created
+2020-03-07 12:03:56 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_product=3&controller=product
+2020-03-07 12:03:82 INFO  VerificationHelper:135 - verifying that='http://automationpractice.com/index.php?id_product=3&controller=product' contains text= 'controller=product'
+2020-03-07 12:03:86 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-07 12:03:88 INFO  Page_product:24 - Page_product Class Object Created
+2020-03-07 12:03:124 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Casual Dresses>Printed Dress' contains text= 'Printed Dress'
+2020-03-07 12:03:124 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-07 12:03:128 INFO  TestBase:105 - ============TC_index_ID_13_VerifyMoreButtonFunctinality============Finished============
+2020-03-07 12:03:128 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:798 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 12:03:815 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 12:03:187 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 12:03:196 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 12:03:220 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:224 INFO  TestBase:88 - ============TC_index_ID_14_VerifyProductNameLinkFunctinality============Started============
+2020-03-07 12:03:232 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:237 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:241 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:244 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:390 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:400 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php
+2020-03-07 12:03:409 INFO  ActionHelper:20 - ActionHelper class Object created
+2020-03-07 12:03:450 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:671 INFO  ActionHelper:32 - moved mouse pointer to webElement
+2020-03-07 12:03:938 INFO  TestBase:207 - Navigated to url= http://automationpractice.com/index.php?id_product=3&controller=product
+2020-03-07 12:03:957 INFO  VerificationHelper:135 - verifying that='http://automationpractice.com/index.php?id_product=3&controller=product' contains text= 'controller=product'
+2020-03-07 12:03:965 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-07 12:03:978 INFO  Page_product:24 - Page_product Class Object Created
+2020-03-07 12:03:89 INFO  VerificationHelper:135 - verifying that='> Women>Dresses>Casual Dresses>Printed Dress' contains text= 'Printed Dress'
+2020-03-07 12:03:90 INFO  SoftAssertionHelper:21 - Test step is : <<PASSED>>
+2020-03-07 12:03:94 INFO  TestBase:105 - ============TC_index_ID_14_VerifyProductNameLinkFunctinality============Finished============
+2020-03-07 12:03:95 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:792 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 12:03:836 INFO  TestBase:124 - ============Ending the suite execution============
+2020-03-07 12:03:558 INFO  TestBase:55 - ============Starting the SUITE execution============
+2020-03-07 12:03:567 INFO  TestBase:61 - ============Starting the TESTS execution============
+2020-03-07 12:03:588 INFO  TestBase:83 - ============Launching the browser============
+2020-03-07 12:03:607 INFO  TestBase:88 - ============TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality============Started============
+2020-03-07 12:03:614 INFO  WaitHelper:29 - WaitHelper Class Object Created
+2020-03-07 12:03:620 INFO  WaitHelper:41 - Pageload timeout set to = 30 seconds
+2020-03-07 12:03:624 INFO  WaitHelper:54 - Implicit wait set to = 30 seconds
+2020-03-07 12:03:625 INFO  VerificationHelper:20 - VericationHelper class Object created
+2020-03-07 12:03:188 INFO  TestBase:147 - Visiting to this URL = http://automationpractice.com/index.php
+2020-03-07 12:03:230 INFO  Page_index:23 - Page_index Class Object Created
+2020-03-07 12:03:644 INFO  TestBase:207 - Navigated to url= http://www.seleniumframework.com/
+2020-03-07 12:03:660 INFO  VerificationHelper:135 - verifying that='http://www.seleniumframework.com/' contains text= 'http://www.seleniumframework.com/'
+2020-03-07 12:03:664 INFO  AssertionHelper:108 - Test is <<PASSED>>
+2020-03-07 12:03:671 INFO  TestBase:105 - ============TC_index_ID_15_VerifySeleniumFrameworkLinkFunctinality============Finished============
+2020-03-07 12:03:672 INFO  TestBase:110 - ============Closing the browser============
+2020-03-07 12:03:420 INFO  TestBase:70 - ============Ending the TESTS execution============
+2020-03-07 12:03:453 INFO  TestBase:124 - ============Ending the suite execution============
